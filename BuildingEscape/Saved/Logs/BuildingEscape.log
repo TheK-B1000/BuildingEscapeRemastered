@@ -1504,3 +1504,657 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-03.07.14:655][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/DoorFrameMaterial]
 [2019.12.11-03.07.14:683][301]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/DoorFrameMaterial_Auto4530A9C6B43AE2893B9C307929FF08B29.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Autosaves/Game/DoorFrameMaterial_Auto4.uasset'
 [2019.12.11-03.07.14:689][301]LogFileHelpers: Auto-saving content packages took 0.223
+[2019.12.11-03.10.07:680][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.10.07:855][782]LogAssetEditorManager: Opening Asset editor for Material /Game/StoneMaterial.StoneMaterial
+[2019.12.11-03.10.07:894][782]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.10.08:631][782]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.10.08:717][782]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.12.11-03.10.08:718][782]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.10.08:718][782]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-03.10.08:729][782]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.10.08:827][782]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-03.10.22:141][923]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2019.12.11-03.10.23:510][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2019.12.11-03.10.26:041][942]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2019.12.11-03.10.26:875][945]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.12.11-03.10.29:076][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.12.11-03.10.29:871][955]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.10.32:370][963]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-03.10.33:204][966]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2019.12.11-03.10.34:905][972]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-03.10.36:139][976]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.12.11-03.10.38:002][982]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2019.12.11-03.10.47:584][996]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.12.11-03.10.48:852][998]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2019.12.11-03.10.55:139][170]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.11-03.10.55:144][170]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.10.55:180][170]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.10.55:217][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-03.10.58:329][262]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.12.11-03.11.03:247][271]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2019.12.11-03.11.04:210][272]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2019.12.11-03.11.04:980][276]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.12.11-03.11.08:009][285]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.12.11-03.11.08:713][287]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.12.11-03.11.09:112][289]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.12.11-03.11.12:293][297]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-03.11.13:525][300]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2019.12.11-03.11.14:658][303]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2019.12.11-03.11.18:709][356]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.19:123][370]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.19:603][386]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.21:493][411]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2019.12.11-03.11.22:802][427]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.26:796][524]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.26:832][524]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.28:090][529]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.28:140][529]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.30:112][561]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.33:017][596]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.12.11-03.11.38:490][813]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2019.12.11-03.11.39:909][870]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.12.11-03.11.40:230][885]LogMaterialEditor: Saving and Compiling material StoneMaterial
+[2019.12.11-03.11.41:115][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.12.11-03.11.41:115][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2019.12.11-03.11.41:115][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.12.11-03.11.41:115][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.12.11-03.11.41:115][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2019.12.11-03.11.41:140][885]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.41:312][885]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.41:358][885]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.11.43:806][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2019.12.11-03.11.43:806][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2019.12.11-03.11.43:806][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2019.12.11-03.11.43:815][885]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2019.12.11-03.11.43:830][885]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.12.55:758][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2019.12.11-03.12.55:759][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2019.12.11-03.12.55:759][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2019.12.11-03.12.55:759][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2019.12.11-03.12.55:759][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2019.12.11-03.12.55:760][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2019.12.11-03.12.55:763][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2019.12.11-03.12.55:764][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 53
+[2019.12.11-03.12.55:765][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2019.12.11-03.12.55:766][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2019.12.11-03.12.55:766][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.12.11-03.12.55:766][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.12.11-03.12.55:767][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 48
+[2019.12.11-03.12.55:767][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2019.12.11-03.12.55:767][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2019.12.11-03.12.55:767][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2019.12.11-03.12.55:767][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.12.11-03.12.55:767][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2019.12.11-03.12.55:767][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2019.12.11-03.12.55:768][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2019.12.11-03.12.55:768][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.12.11-03.12.55:768][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2019.12.11-03.12.55:772][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2019.12.11-03.12.55:772][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2019.12.11-03.12.55:772][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2019.12.11-03.12.55:772][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2019.12.11-03.12.55:773][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.12.11-03.12.55:773][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2019.12.11-03.12.55:773][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2019.12.11-03.12.55:773][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.12.11-03.12.55:773][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.11-03.12.55:773][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.12.11-03.12.55:787][885]TextureStreamingBuild: Display: Compiling optional shaders took 71.972 seconds.
+[2019.12.11-03.13.00:553][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.11-03.13.08:650][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.12.11-03.13.08:651][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.11-03.13.08:651][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.12.11-03.13.08:651][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.11-03.13.08:766][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneMaterial" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneMaterial.uasset" SILENT=true
+[2019.12.11-03.13.08:806][885]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneMaterial0EE939FE48F2643194BD419665752E9A.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneMaterial.uasset'
+[2019.12.11-03.13.08:984][885]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.12.11-03.13.08:985][885]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2019.12.11-03.13.08:985][885]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.12.11-03.13.08:985][885]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-03.13.08:985][885]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-03.13.08:985][885]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-03.13.08:985][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-03.13.17:733][143]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.13.17:778][143]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.12.11-03.13.17:779][143]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.13.17:779][143]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-03.13.17:779][143]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-03.13.26:344][418]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.13.26:380][418]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterSubUV_0, compiling. 
+[2019.12.11-03.13.27:386][446]LogEditorTransaction: Undo Material Editor: New Expression
+[2019.12.11-03.13.27:399][446]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.13.27:481][446]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.13.29:631][513]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2019.12.11-03.13.29:659][514]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2019.12.11-03.13.29:889][522]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2019.12.11-03.13.34:207][633]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2019.12.11-03.13.34:363][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.12.11-03.13.34:589][636]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2019.12.11-03.13.35:894][645]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2019.12.11-03.13.36:354][649]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.12.11-03.13.37:072][654]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.12.11-03.13.37:491][658]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.13.38:292][661]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2019.12.11-03.13.38:528][664]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-03.13.41:883][693]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-03.13.43:243][748]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.12.11-03.13.44:713][800]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.13.46:219][864]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.12.11-03.13.50:800][ 73]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.13.52:739][152]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2019.12.11-03.13.53:998][202]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-03.13.56:462][308]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-03.13.57:097][333]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.12.11-03.13.57:239][338]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.13.57:271][338]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.13.57:755][357]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.12.11-03.14.00:913][497]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.14.01:600][524]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2019.12.11-03.14.04:180][643]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-03.14.06:460][736]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.14.06:486][736]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.11-03.14.07:210][762]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.12.11-03.14.07:700][784]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.14.07:731][784]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-03.14.08:663][820]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2019.12.11-03.14.09:130][837]LogMaterialEditor: Saving and Compiling material StoneMaterial
+[2019.12.11-03.14.09:687][837]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.14.09:780][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.11-03.14.09:781][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.11-03.14.09:819][837]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.14.09:850][837]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.14.09:906][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.11-03.14.09:917][837]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.14.58:949][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 65
+[2019.12.11-03.14.58:950][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2019.12.11-03.14.58:952][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 63
+[2019.12.11-03.14.58:952][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2019.12.11-03.14.58:952][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2019.12.11-03.14.58:953][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2019.12.11-03.14.58:953][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2019.12.11-03.14.58:953][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2019.12.11-03.14.58:953][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 57
+[2019.12.11-03.14.58:954][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2019.12.11-03.14.58:954][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2019.12.11-03.14.58:955][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2019.12.11-03.14.58:955][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2019.12.11-03.14.58:955][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2019.12.11-03.14.58:958][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 51
+[2019.12.11-03.14.58:958][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.12.11-03.14.58:959][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2019.12.11-03.14.58:959][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2019.12.11-03.14.58:959][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2019.12.11-03.14.58:959][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2019.12.11-03.14.58:959][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2019.12.11-03.14.58:960][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2019.12.11-03.14.58:960][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2019.12.11-03.14.58:960][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2019.12.11-03.14.58:960][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2019.12.11-03.14.58:960][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2019.12.11-03.14.58:960][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2019.12.11-03.14.58:961][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2019.12.11-03.14.58:961][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2019.12.11-03.14.58:961][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2019.12.11-03.14.58:961][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2019.12.11-03.14.58:961][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.12.11-03.14.58:961][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.12.11-03.14.58:962][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2019.12.11-03.14.58:962][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.12.11-03.14.58:962][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-03.14.58:962][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.12.11-03.14.58:979][837]TextureStreamingBuild: Display: Compiling optional shaders took 49.072 seconds.
+[2019.12.11-03.15.15:893][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.12.11-03.15.32:889][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.12.11-03.15.32:889][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.11-03.15.32:889][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.11-03.15.32:890][837]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.11-03.15.33:020][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneMaterial" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneMaterial.uasset" SILENT=true
+[2019.12.11-03.15.33:059][837]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneMaterial811C7F9D4601369A1892BE910B63C815.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneMaterial.uasset'
+[2019.12.11-03.15.33:146][837]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.12.11-03.15.33:147][837]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2019.12.11-03.15.33:147][837]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.12.11-03.15.33:148][837]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-03.15.33:148][837]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-03.15.33:148][837]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-03.15.33:148][837]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-03.15.42:469][960]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-03.15.42:496][960]LogSlate: Window 'StoneMaterial' being destroyed
+[2019.12.11-03.15.44:485][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-03.15.44:518][ 22]LogSlate: Window 'StoneMaterial' being destroyed
+[2019.12.11-03.15.47:181][105]LogSlate: Window 'StoneMaterial' being destroyed
+[2019.12.11-03.15.47:771][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.15.52:874][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.16.14:288][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.16.14:431][413]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/StoneFloor.StoneFloor
+[2019.12.11-03.16.23:421][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneFloor" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset" SILENT=true
+[2019.12.11-03.16.23:458][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.11-03.16.23:469][830]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.12.11-03.16.23:500][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.11-03.16.23:519][830]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneFloor714188F5412A33E86D08B3AC3BF72294.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset'
+[2019.12.11-03.16.24:302][874]LogRenderer: Reallocating scene render targets to support 1336x884 Format 10 NumSamples 1 (Frame:92).
+[2019.12.11-03.16.29:720][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.16.37:689][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.16.44:996][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneFloor" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset" SILENT=true
+[2019.12.11-03.16.45:028][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.11-03.16.45:038][991]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.12.11-03.16.45:070][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.12.11-03.16.45:087][991]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneFloor3662A56B4737376071C7549BB73FFEC0.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset'
+[2019.12.11-03.16.52:639][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.16.53:511][425]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/DoorFrameMaterial.DoorFrameMaterial
+[2019.12.11-03.16.58:455][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorFrameMaterial" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/DoorFrameMaterial.uasset" SILENT=true
+[2019.12.11-03.16.58:489][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.12.11-03.16.58:499][693]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.12.11-03.16.58:530][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.12.11-03.16.58:550][693]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/DoorFrameMaterial428FF2C1408117C3951A4DB70F6BCABB.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/DoorFrameMaterial.uasset'
+[2019.12.11-03.17.02:615][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.17.09:485][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.17.11:030][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.17.11:244][384]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/StoneWall.StoneWall
+[2019.12.11-03.17.14:500][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneWall" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset" SILENT=true
+[2019.12.11-03.17.14:532][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.11-03.17.14:542][562]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.12.11-03.17.14:574][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.11-03.17.14:591][562]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneWallAC88828542E52C8A90D9BF87CF411DF5.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset'
+[2019.12.11-03.17.17:200][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.17.19:075][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.17.22:601][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.17.27:989][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.17.30:247][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.17.30:414][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.12.11-03.17.30:634][438]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001CF344FCA4B22CCDEE4EEE9B60CACA5DD.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
+[2019.12.11-03.17.30:707][438]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltData41D298EA4002209FC846E8B114B448AB.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2019.12.11-03.17.50:688][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.18.06:414][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.18.06:572][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.11-03.18.06:719][448]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_00194AC2DAF4EE524E771048BA0550B9EB7.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
+[2019.12.11-03.18.06:767][448]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltData8E7B10BA41F81C2144D6DD93B5CBC776.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2019.12.11-03.18.37:328][693]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.18.39:021][779]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.18.40:801][867]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.18.54:108][571]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.18.54:172][572]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.12.11-03.18.54:172][572]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.18.54:172][572]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-03.18.59:947][872]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.12.11-03.19.02:344][973]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-03.19.07:697][983]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.12.11-03.19.07:698][983]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2019.12.11-03.19.08:466][988]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2019.12.11-03.19.10:615][999]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.12.11-03.19.11:745][  1]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-03.19.11:746][  1]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.11-03.19.15:430][ 13]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.11-03.19.21:586][138]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.19.21:629][138]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.19.25:720][227]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.12.11-03.19.25:834][233]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.19.26:343][261]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2019.12.11-03.19.28:456][375]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.12.11-03.19.28:457][375]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-03.19.28:598][381]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.19.29:194][413]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.12.11-03.19.30:792][496]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.19.30:792][496]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-03.19.31:543][536]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.12.11-03.19.32:664][597]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-03.19.32:790][604]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.12.11-03.19.32:797][604]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.19.33:138][622]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.12.11-03.19.34:029][672]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.19.34:111][676]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-03.19.34:569][703]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.12.11-03.19.35:613][759]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.12.11-03.19.35:656][762]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.12.11-03.19.35:863][774]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.12.11-03.19.37:119][842]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.12.11-03.19.37:628][870]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.12.11-03.19.37:928][887]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.12.11-03.19.38:028][893]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.12.11-03.19.39:141][953]LogMaterialEditor: Saving and Compiling material StoneMaterial
+[2019.12.11-03.19.39:681][953]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.19.39:776][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.11-03.19.39:818][953]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.19.39:848][953]LogMaterial: Display: Missing cached shader map for material StoneMaterial, compiling. 
+[2019.12.11-03.19.39:922][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.11-03.19.39:933][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.19.51:439][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2019.12.11-03.19.51:439][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 61
+[2019.12.11-03.19.51:439][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2019.12.11-03.19.51:439][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2019.12.11-03.19.51:439][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2019.12.11-03.19.51:439][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2019.12.11-03.19.51:440][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2019.12.11-03.19.51:440][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2019.12.11-03.19.51:440][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2019.12.11-03.19.51:440][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2019.12.11-03.19.51:440][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2019.12.11-03.19.51:440][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2019.12.11-03.19.51:440][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2019.12.11-03.19.51:440][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2019.12.11-03.19.51:440][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.12.11-03.19.51:441][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2019.12.11-03.19.51:441][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2019.12.11-03.19.51:441][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2019.12.11-03.19.51:441][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2019.12.11-03.19.51:441][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2019.12.11-03.19.51:441][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2019.12.11-03.19.51:441][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2019.12.11-03.19.51:441][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2019.12.11-03.19.51:442][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.12.11-03.19.51:442][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2019.12.11-03.19.51:442][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2019.12.11-03.19.51:442][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2019.12.11-03.19.51:443][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2019.12.11-03.19.51:443][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.12.11-03.19.51:443][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2019.12.11-03.19.51:443][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2019.12.11-03.19.51:443][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2019.12.11-03.19.51:443][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.11-03.19.51:443][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.12.11-03.19.51:450][953]TextureStreamingBuild: Display: Compiling optional shaders took 11.527 seconds.
+[2019.12.11-03.20.05:848][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.11-03.20.36:254][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.11-03.20.36:254][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.12.11-03.20.36:254][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.11-03.20.36:257][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.11-03.20.36:380][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneMaterial" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneMaterial.uasset" SILENT=true
+[2019.12.11-03.20.36:482][953]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneMaterial6C487F5B4AFA0E85F791C1A1930AB3F5.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneMaterial.uasset'
+[2019.12.11-03.20.36:598][953]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.12.11-03.20.36:598][953]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2019.12.11-03.20.36:598][953]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.12.11-03.20.36:598][953]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-03.20.36:599][953]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-03.20.36:599][953]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-03.20.36:599][953]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-03.20.59:224][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.21.08:657][586]LogUObjectHash: Compacting FUObjectHashTables data took   9.76ms
+[2019.12.11-03.21.10:006][586]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.11-03.21.11:471][623]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/StoneWall.StoneWall
+[2019.12.11-03.21.27:720][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.21.43:011][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneWall" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset" SILENT=true
+[2019.12.11-03.21.43:062][884]LogUObjectHash: Compacting FUObjectHashTables data took  12.09ms
+[2019.12.11-03.21.43:077][884]TextureStreamingBuild: Display: Compiling optional shaders took 0.015 seconds.
+[2019.12.11-03.21.43:115][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.11-03.21.43:147][884]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneWall5C202AB943D5896E2F7C36B49A11E5ED.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset'
+[2019.12.11-03.21.52:396][151]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-03.21.54:785][252]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/StoneFloor.StoneFloor
+[2019.12.11-03.22.01:371][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.22.23:466][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneFloor" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset" SILENT=true
+[2019.12.11-03.22.23:501][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.12.11-03.22.23:511][607]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.12.11-03.22.23:541][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.11-03.22.23:560][607]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneFloorBD742915441CB280D40690A45A13C098.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset'
+[2019.12.11-03.22.27:124][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.22.39:672][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneFloor" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset" SILENT=true
+[2019.12.11-03.22.39:704][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.11-03.22.39:713][494]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.12.11-03.22.39:744][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.11-03.22.39:761][494]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneFloor4A0B64794868DD3F9E506CA49E8FD657.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset'
+[2019.12.11-03.22.45:426][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.22.48:640][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneFloor" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset" SILENT=true
+[2019.12.11-03.22.48:672][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.11-03.22.48:683][  1]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.12.11-03.22.48:713][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.11-03.22.48:731][  1]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneFloor2DA8744C40146AC8303FA8834A07B160.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset'
+[2019.12.11-03.22.51:019][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.22.53:011][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.22.57:913][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneFloor" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset" SILENT=true
+[2019.12.11-03.22.57:946][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.11-03.22.57:955][503]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.12.11-03.22.57:985][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.11-03.22.58:002][503]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneFloor87B2529949DEAB863EC1E5A7F9395B64.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneFloor.uasset'
+[2019.12.11-03.23.11:945][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.23.21:595][784]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/StoneCeiling.StoneCeiling
+[2019.12.11-03.23.26:186][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.23.31:440][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneCeiling" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneCeiling.uasset" SILENT=true
+[2019.12.11-03.23.31:473][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.11-03.23.31:483][328]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.12.11-03.23.31:513][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.12.11-03.23.31:534][328]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneCeiling95B88BF848BB7978F26C79B4404A78D4.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneCeiling.uasset'
+[2019.12.11-03.23.38:240][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.23.49:589][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneCeiling" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneCeiling.uasset" SILENT=true
+[2019.12.11-03.23.49:624][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.11-03.23.49:634][302]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.12.11-03.23.49:665][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.12.11-03.23.49:685][302]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneCeilingC7C8B68A46064AA5A90720A89736FCDB.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneCeiling.uasset'
+[2019.12.11-03.23.56:510][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.24.01:217][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneWall" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset" SILENT=true
+[2019.12.11-03.24.01:249][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.11-03.24.01:259][959]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.12.11-03.24.01:289][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.11-03.24.01:307][959]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneWall9DB37D6E4EB6BB9FFF9E4E9253E65E52.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset'
+[2019.12.11-03.24.15:244][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneWall" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset" SILENT=true
+[2019.12.11-03.24.15:275][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.12.11-03.24.15:285][604]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.12.11-03.24.15:316][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.11-03.24.15:333][604]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneWall977D642B403337897F957AA94C150D03.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset'
+[2019.12.11-03.24.30:274][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneWall" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset" SILENT=true
+[2019.12.11-03.24.30:306][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.12.11-03.24.30:315][434]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.12.11-03.24.30:346][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.11-03.24.30:363][434]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneWallD3D2A2284703B557B599B8973CC25D77.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset'
+[2019.12.11-03.24.37:392][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneWall" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset" SILENT=true
+[2019.12.11-03.24.37:423][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.11-03.24.37:433][809]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.12.11-03.24.37:464][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.11-03.24.37:481][809]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneWall79AA5B0E426A29EDD707A7AFE0B4F32B.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset'
+[2019.12.11-03.24.41:168][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.24.44:732][229]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.24.45:308][262]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.24.52:320][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StoneWall" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset" SILENT=true
+[2019.12.11-03.24.52:355][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.12.11-03.24.52:366][656]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.12.11-03.24.52:397][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.11-03.24.52:415][656]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneWallA5FC48524D70DA9E6A8ABB9D532F921E.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/StoneWall.uasset'
+[2019.12.11-03.25.00:503][ 64]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/DoorFrameMaterial.DoorFrameMaterial
+[2019.12.11-03.25.04:378][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.25.15:678][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorFrameMaterial" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/DoorFrameMaterial.uasset" SILENT=true
+[2019.12.11-03.25.15:711][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.12.11-03.25.15:721][832]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.12.11-03.25.15:752][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.12.11-03.25.15:771][832]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/DoorFrameMaterial0DF3CF124A5A646210D9F5A53CDC1575.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/DoorFrameMaterial.uasset'
+[2019.12.11-03.25.24:080][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.26.39:005][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.27.37:345][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.27.37:477][267]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.27.37:899][290]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.27.38:346][315]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.27.38:873][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.11-03.27.39:027][342]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001BB70663647EA9148FFEF539FE37F1275.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
+[2019.12.11-03.27.39:081][342]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltDataABFF6161497C2019EDE1F38F345B6EBA.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2019.12.11-03.30.28:934][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.30.30:666][146]LogAssetEditorManager: Opening Asset editor for Material /Game/MetalWood.MetalWood
+[2019.12.11-03.30.30:677][146]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.30.30:841][146]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.30.30:886][146]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.30.30:932][146]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.12.11-03.30.30:932][146]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.11-03.30.30:932][146]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.11-03.30.30:940][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-03.30.37:198][333]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.30.37:239][333]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.30.37:289][333]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-03.30.40:682][434]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.30.40:725][434]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-03.30.43:730][537]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2019.12.11-03.30.44:468][563]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.30.46:190][624]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.12.11-03.30.50:406][766]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2019.12.11-03.30.52:811][852]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2019.12.11-03.30.55:160][929]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.30.58:613][ 37]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2019.12.11-03.30.59:651][ 71]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.11-03.31.05:209][264]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2019.12.11-03.31.06:386][298]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.12.11-03.31.10:449][431]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2019.12.11-03.31.11:388][461]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2019.12.11-03.31.15:018][570]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.15:054][570]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.15:854][592]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.11-03.31.16:188][601]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2019.12.11-03.31.16:369][606]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.21:898][785]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.11-03.31.23:098][824]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2019.12.11-03.31.24:318][858]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.24:361][858]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.27:548][952]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.27:582][952]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.12.11-03.31.27:669][954]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.12.11-03.31.29:013][996]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.29:065][996]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-03.31.30:260][ 33]LogMaterialEditor: Saving and Compiling material MetalWood
+[2019.12.11-03.31.30:942][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2019.12.11-03.31.30:971][ 33]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.31:126][ 33]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.31:162][ 33]LogMaterial: Display: Missing cached shader map for material MetalWood, compiling. 
+[2019.12.11-03.31.31:194][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.12.11-03.31.31:194][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.12.11-03.31.31:245][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.12.11-03.31.31:259][ 33]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.31.54:903][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 65
+[2019.12.11-03.31.54:903][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 64
+[2019.12.11-03.31.54:903][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2019.12.11-03.31.54:904][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2019.12.11-03.31.54:904][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 61
+[2019.12.11-03.31.54:904][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2019.12.11-03.31.54:904][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 59
+[2019.12.11-03.31.54:904][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2019.12.11-03.31.54:904][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2019.12.11-03.31.54:904][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2019.12.11-03.31.54:904][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2019.12.11-03.31.54:905][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2019.12.11-03.31.54:905][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 53
+[2019.12.11-03.31.54:905][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2019.12.11-03.31.54:905][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2019.12.11-03.31.54:906][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2019.12.11-03.31.54:906][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.12.11-03.31.54:906][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 48
+[2019.12.11-03.31.54:906][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2019.12.11-03.31.54:907][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2019.12.11-03.31.54:907][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2019.12.11-03.31.54:907][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2019.12.11-03.31.54:907][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2019.12.11-03.31.54:907][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2019.12.11-03.31.54:910][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2019.12.11-03.31.54:911][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2019.12.11-03.31.54:912][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.12.11-03.31.54:913][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2019.12.11-03.31.54:913][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2019.12.11-03.31.54:913][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2019.12.11-03.31.54:914][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2019.12.11-03.31.54:914][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.12.11-03.31.54:914][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2019.12.11-03.31.54:914][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2019.12.11-03.31.54:914][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.12.11-03.31.54:914][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.11-03.31.54:915][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.12.11-03.31.54:923][ 33]TextureStreamingBuild: Display: Compiling optional shaders took 23.678 seconds.
+[2019.12.11-03.32.10:609][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.12.11-03.32.23:144][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.12.11-03.32.23:145][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.11-03.32.23:145][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.12.11-03.32.23:145][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.11-03.32.23:263][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MetalWood" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/MetalWood.uasset" SILENT=true
+[2019.12.11-03.32.23:294][ 33]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/MetalWood70DE28414096B533202AE8AC00E435A6.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/MetalWood.uasset'
+[2019.12.11-03.32.23:361][ 33]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.12.11-03.32.23:361][ 33]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2019.12.11-03.32.23:361][ 33]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.12.11-03.32.23:361][ 33]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.11-03.32.23:362][ 33]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.11-03.32.23:362][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.12.11-03.32.23:362][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-03.32.40:616][206]LogMaterialEditor: Saving and Compiling material MetalWood
+[2019.12.11-03.32.40:654][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MetalWood" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/MetalWood.uasset" SILENT=true
+[2019.12.11-03.32.40:664][206]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/MetalWood659CC57145A3B5A5F86D3E9259A309FD.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/MetalWood.uasset'
+[2019.12.11-03.32.41:976][252]LogSlate: Window 'MetalWood' being destroyed
+[2019.12.11-03.32.46:804][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.32.48:163][558]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/DoorMaterial.DoorMaterial
+[2019.12.11-03.32.55:976][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.33.10:721][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.33.22:036][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorMaterial" FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/DoorMaterial.uasset" SILENT=true
+[2019.12.11-03.33.22:069][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.11-03.33.22:082][448]TextureStreamingBuild: Display: Compiling optional shaders took 0.012 seconds.
+[2019.12.11-03.33.22:114][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.12.11-03.33.22:134][448]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/DoorMaterial47C44A1045C9F74E30121DAE43FF9FC9.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/DoorMaterial.uasset'
+[2019.12.11-03.33.41:986][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.33.42:051][604]MapCheck: New page: Map Check
+[2019.12.11-03.33.42:087][604]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.11-03.33.42:089][604]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.11-03.33.42:401][604]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=false
+[2019.12.11-03.33.42:444][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.12.11-03.33.42:470][604]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.33.42:481][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.11-03.33.42:482][604]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.11-03.33.42:482][604]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.33.42:501][604]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.33.46:276][604]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.11-03.33.46:277][604]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.11-03.33.46:277][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.11-03.33.46:277][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.11-03.33.46:277][604]TextureStreamingBuild: Display: Compiling optional shaders took 3.812 seconds.
+[2019.12.11-03.33.46:528][604]LogLevel: Display: Export Material TexCoord Scales took 0.251 seconds.
+[2019.12.11-03.33.46:587][604]TextureStreamingBuild: Display: Build Texture Streaming took 0.057 seconds.
+[2019.12.11-03.33.46:657][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.11-03.33.46:660][604]LightingResults: New page: Lighting Build - Dec 10, 2019, 5:33:46 PM
+[2019.12.11-03.33.46:697][604]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.11-03.33.46:743][604]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.11-03.33.46:744][604]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.11-03.33.46:760][604]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.11-03.33.46:760][604]LogSwarmInterface: [TryOpenConnection] Local Process ID is 77612
+[2019.12.11-03.33.51:334][604]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.11-03.33.51:334][604]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.11-03.33.51:334][604]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.11-03.33.51:334][604]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.11-03.33.51:335][604]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.11-03.33.51:335][604]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.11-03.33.52:349][604]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DoorMaterial, compiling. 
+[2019.12.11-03.33.52:412][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.11-03.33.52:412][604]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.11-03.33.52:412][604]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DoorMaterial, compiling. 
+[2019.12.11-03.33.52:447][604]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.11-03.33.52:462][604]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DoorFrameMaterial, compiling. 
+[2019.12.11-03.33.52:498][604]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DoorFrameMaterial, compiling. 
+[2019.12.11-03.33.59:383][604]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.12.11-03.33.59:384][604]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.11-03.33.59:385][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.11-03.33.59:386][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.12.11-03.34.11:858][604]Job is a success!
+[2019.12.11-03.34.12:025][604]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2019.12.11-03.34.12:025][604]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.11-03.34.12:025][604]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2019.12.11-03.34.12:025][604]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.11-03.34.12:026][604]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2019.12.11-03.34.12:026][604]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2019.12.11-03.34.12:026][604]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2019.12.11-03.34.12:229][604]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.12.11-03.34.12:230][604]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.12.11-03.34.12:230][604]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.12.11-03.34.12:230][604]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.12.11-03.34.12:230][604]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.12.11-03.34.12:230][604]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.12.11-03.34.12:231][604]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2019.12.11-03.34.12:231][604]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 128X128)
+[2019.12.11-03.34.12:231][604]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 256X64)
+[2019.12.11-03.34.12:234][604]LogStaticLightingSystem: Level_001_BuiltData storing lightmap data for 7 meshes in 3 LightmapResourceClusters (2.3 Meshes per cluster).
+[2019.12.11-03.34.12:284][604]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2019.12.11-03.34.12:293][604]LogStaticLightingSystem: Illumination: 25.6 sec (114 ms encoding lightmaps, 51 ms encoding shadowmaps)
+[2019.12.11-03.34.12:293][604]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2019.12.11-03.34.12:293][604]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.1 MB streaming, 0.1 MB non-streaming), 3 textures
+[2019.12.11-03.34.13:621][604]Lightmass on LAPTOP-7TARG8CR: 9.86 sec total, 3.43 sec importing, 249 ms setup, 1.16 sec photons, 4.71 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 18.7 sec total, 4.82 sec processing.
+[2019.12.11-03.34.13:621][604]DumpUnbuiltLightIteractions
+[2019.12.11-03.34.13:622][604]Lights with unbuilt interactions: 0
+[2019.12.11-03.34.13:622][604]
+[2019.12.11-03.34.13:622][604]Primitives with unbuilt interactions: 0
+[2019.12.11-03.34.13:805][604]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.11-03.34.13:806][604]MapCheck: New page: Level_001 - Dec 10, 2019, 5:34:13 PM
+[2019.12.11-03.34.13:807][604]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.722ms to complete.
+[2019.12.11-03.34.13:810][604]LogEditorBuildUtils: Build time 0:31
+[2019.12.11-03.34.13:897][605]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.11-03.34.13:898][605]MapCheck: New page: Level_001 - Dec 10, 2019, 5:34:13 PM
+[2019.12.11-03.34.13:901][605]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.97ms to complete.
+[2019.12.11-03.34.21:301][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.34.21:503][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.12.11-03.34.21:761][849]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_0014741A21347E7D42B9C878E9DBA8DAC4C.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
+[2019.12.11-03.34.21:856][849]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltData7D1FC8134FCBC2CEDE47DA85A6A29A4A.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2019.12.11-03.34.22:437][866]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.34.23:087][886]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
