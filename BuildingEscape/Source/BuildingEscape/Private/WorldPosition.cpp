@@ -21,7 +21,10 @@ void UWorldPosition::BeginPlay()
 	Super::BeginPlay();
 
 	FString ObjectName = GetOwner()->GetName();
-	UE_LOG(LogTemp, Warning, TEXT("Object Name is:  %s"), *ObjectName);
+	UE_LOG(LogTemp, Warning, TEXT("Object Name is: %s"), *ObjectName);
+	FVector ObjectLocation = GetOwner()->GetActorLocation();
+	UE_LOG(LogTemp, Warning, TEXT("Object Location is: %s"), *(ObjectLocation.ToString()));
+	
 	
 }
 
