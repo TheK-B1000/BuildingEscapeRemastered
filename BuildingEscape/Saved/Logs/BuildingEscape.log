@@ -1330,3 +1330,177 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-02.57.11:329][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2019.12.11-02.57.11:546][984]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001652F714A4BFBFF5CD51EAF940232B924.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
 [2019.12.11-02.57.11:604][984]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltData631778F74299528726ABB18B795C5914.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2019.12.11-03.01.33:705][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.02.09:122][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.02.09:154][630]MapCheck: New page: Map Check
+[2019.12.11-03.02.09:190][630]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.11-03.02.09:191][630]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.11-03.02.09:478][630]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=false
+[2019.12.11-03.02.09:541][630]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.12.11-03.02.09:578][630]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.02.09:594][630]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.02.09:617][630]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.11-03.02.09:618][630]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.11-03.02.09:618][630]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.02.09:635][630]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.02.22:933][630]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.11-03.02.22:933][630]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.12.11-03.02.22:933][630]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.11-03.02.22:933][630]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.11-03.02.22:934][630]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.11-03.02.22:934][630]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.11-03.02.22:934][630]TextureStreamingBuild: Display: Compiling optional shaders took 13.361 seconds.
+[2019.12.11-03.02.22:973][630]LogLevel: Display: Export Material TexCoord Scales took 0.039 seconds.
+[2019.12.11-03.02.23:025][630]TextureStreamingBuild: Display: Build Texture Streaming took 0.050 seconds.
+[2019.12.11-03.02.23:090][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.12.11-03.02.23:091][630]LightingResults: New page: Lighting Build - Dec 10, 2019, 5:02:23 PM
+[2019.12.11-03.02.23:108][630]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.11-03.02.23:171][630]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.11-03.02.23:171][630]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.11-03.02.23:173][630]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.11-03.02.23:173][630]LogSwarmInterface: [TryOpenConnection] Local Process ID is 77612
+[2019.12.11-03.02.27:737][630]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.11-03.02.27:737][630]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.11-03.02.27:737][630]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.11-03.02.27:737][630]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.11-03.02.27:737][630]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.11-03.02.27:738][630]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.11-03.02.30:305][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.11-03.02.42:973][630]Job is a success!
+[2019.12.11-03.02.43:431][630]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.032s
+[2019.12.11-03.02.43:432][630]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.11-03.02.43:433][630]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2019.12.11-03.02.43:433][630]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.11-03.02.43:433][630]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2019.12.11-03.02.43:433][630]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2019.12.11-03.02.43:434][630]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2019.12.11-03.02.43:695][630]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.12.11-03.02.43:695][630]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.12.11-03.02.43:695][630]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.12.11-03.02.43:696][630]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.12.11-03.02.43:696][630]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.12.11-03.02.43:696][630]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.12.11-03.02.43:696][630]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 128X128)
+[2019.12.11-03.02.43:696][630]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2019.12.11-03.02.43:696][630]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 256X64)
+[2019.12.11-03.02.43:697][630]LogStaticLightingSystem: Level_001_BuiltData storing lightmap data for 7 meshes in 3 LightmapResourceClusters (2.3 Meshes per cluster).
+[2019.12.11-03.02.45:456][630]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2019.12.11-03.02.45:466][630]LogStaticLightingSystem: Illumination: 22.3 sec (126 ms encoding lightmaps, 69 ms encoding shadowmaps)
+[2019.12.11-03.02.45:467][630]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2019.12.11-03.02.45:467][630]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.1 MB streaming, 0.1 MB non-streaming), 3 textures
+[2019.12.11-03.02.46:196][630]DumpUnbuiltLightIteractions
+[2019.12.11-03.02.46:197][630]Lights with unbuilt interactions: 0
+[2019.12.11-03.02.46:197][630]
+[2019.12.11-03.02.46:197][630]Primitives with unbuilt interactions: 0
+[2019.12.11-03.02.46:517][630]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.11-03.02.46:518][630]MapCheck: New page: Level_001 - Dec 10, 2019, 5:02:46 PM
+[2019.12.11-03.02.46:533][630]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 15.944ms to complete.
+[2019.12.11-03.02.46:567][630]LogEditorBuildUtils: Build time 0:37
+[2019.12.11-03.02.47:731][631]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.11-03.02.47:731][631]MapCheck: New page: Level_001 - Dec 10, 2019, 5:02:47 PM
+[2019.12.11-03.02.47:765][631]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.911ms to complete.
+[2019.12.11-03.03.08:484][845]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.12.11-03.03.10:831][947]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-03.03.30:765][708]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-03.03.33:127][737]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.11-03.03.39:913][873]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.12.11-03.03.41:105][954]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-03.03.47:145][296]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.11-03.03.49:942][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.03.49:970][476]MapCheck: New page: Map Check
+[2019.12.11-03.03.50:000][476]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.11-03.03.50:000][476]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.11-03.03.50:215][476]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=false
+[2019.12.11-03.03.50:260][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.12.11-03.03.50:286][476]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.03.50:299][476]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.03.50:310][476]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.11-03.03.50:310][476]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.11-03.03.50:310][476]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.03.50:322][476]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-03.04.11:321][476]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.11-03.04.11:321][476]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.12.11-03.04.11:326][476]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.11-03.04.11:327][476]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.12.11-03.04.11:327][476]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.11-03.04.11:327][476]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.11-03.04.11:328][476]TextureStreamingBuild: Display: Compiling optional shaders took 21.040 seconds.
+[2019.12.11-03.04.11:354][476]LogLevel: Display: Export Material TexCoord Scales took 0.026 seconds.
+[2019.12.11-03.04.11:404][476]TextureStreamingBuild: Display: Build Texture Streaming took 0.048 seconds.
+[2019.12.11-03.04.11:520][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.11-03.04.11:520][476]LightingResults: New page: Lighting Build - Dec 10, 2019, 5:04:11 PM
+[2019.12.11-03.04.11:538][476]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.11-03.04.11:570][476]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.11-03.04.11:570][476]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.11-03.04.11:572][476]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.11-03.04.11:573][476]LogSwarmInterface: [TryOpenConnection] Local Process ID is 77612
+[2019.12.11-03.04.16:127][476]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.11-03.04.16:128][476]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.11-03.04.16:128][476]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.11-03.04.16:129][476]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.11-03.04.16:129][476]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.11-03.04.16:129][476]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.11-03.04.18:984][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.12.11-03.04.34:838][476]Job is a success!
+[2019.12.11-03.04.35:077][476]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2019.12.11-03.04.35:077][476]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.11-03.04.35:078][476]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2019.12.11-03.04.35:078][476]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.11-03.04.35:080][476]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2019.12.11-03.04.35:080][476]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2019.12.11-03.04.35:081][476]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2019.12.11-03.04.35:335][476]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.12.11-03.04.35:335][476]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.12.11-03.04.35:335][476]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2019.12.11-03.04.35:335][476]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2019.12.11-03.04.35:335][476]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.12.11-03.04.35:336][476]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.12.11-03.04.35:336][476]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 128X128)
+[2019.12.11-03.04.35:336][476]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 32X32)
+[2019.12.11-03.04.35:336][476]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 256X64)
+[2019.12.11-03.04.35:336][476]LogStaticLightingSystem: Level_001_BuiltData storing lightmap data for 7 meshes in 3 LightmapResourceClusters (2.3 Meshes per cluster).
+[2019.12.11-03.04.38:670][476]Lightmass on LAPTOP-7TARG8CR: 10.3 sec total, 3.28 sec importing, 347 ms setup, 633 ms photons, 5.91 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 23.6 sec total, 4.20 sec processing.
+[2019.12.11-03.04.38:670][476]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2019.12.11-03.04.38:677][476]LogStaticLightingSystem: Illumination: 27.1 sec (91 ms encoding lightmaps, 90 ms encoding shadowmaps)
+[2019.12.11-03.04.38:677][476]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2019.12.11-03.04.38:677][476]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.1 MB streaming, 0.1 MB non-streaming), 3 textures
+[2019.12.11-03.04.44:606][476]DumpUnbuiltLightIteractions
+[2019.12.11-03.04.44:606][476]Lights with unbuilt interactions: 0
+[2019.12.11-03.04.44:606][476]
+[2019.12.11-03.04.44:606][476]Primitives with unbuilt interactions: 0
+[2019.12.11-03.04.44:907][476]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.11-03.04.44:908][476]MapCheck: New page: Level_001 - Dec 10, 2019, 5:04:44 PM
+[2019.12.11-03.04.44:939][476]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 31.528ms to complete.
+[2019.12.11-03.04.44:956][476]LogEditorBuildUtils: Build time 0:54
+[2019.12.11-03.04.45:689][477]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.11-03.04.45:689][477]MapCheck: New page: Level_001 - Dec 10, 2019, 5:04:45 PM
+[2019.12.11-03.04.45:690][477]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.91ms to complete.
+[2019.12.11-03.04.53:642][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.04.59:727][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.05.01:747][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.05.11:239][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.05.13:062][251]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-03.05.17:225][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.07.11:819][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.12.11-03.07.14:423][301]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_Auto41311A0D144079CA2B1D824BB1AFF407B.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Autosaves/Game/Level_001_Auto4.umap'
+[2019.12.11-03.07.14:456][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_001' took 2.754
+[2019.12.11-03.07.14:456][301]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.754
+[2019.12.11-03.07.14:467][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Brass] ([1] browsable assets)...
+[2019.12.11-03.07.14:467][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Brass]
+[2019.12.11-03.07.14:491][301]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Brass_Auto43A6402C747234D05EC0150830D5CB6A0.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Autosaves/Game/Brass_Auto4.uasset'
+[2019.12.11-03.07.14:501][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Broken_Concrete] ([1] browsable assets)...
+[2019.12.11-03.07.14:502][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Broken_Concrete]
+[2019.12.11-03.07.14:538][301]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Broken_Concrete_Auto4D04692444BD7CA0634123ABC8FB66137.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Autosaves/Game/Broken_Concrete_Auto4.uasset'
+[2019.12.11-03.07.14:550][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MetalWood] ([1] browsable assets)...
+[2019.12.11-03.07.14:551][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/MetalWood]
+[2019.12.11-03.07.14:571][301]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/MetalWood_Auto4B51A4DB6455E94520D53BFA2D27A0E19.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Autosaves/Game/MetalWood_Auto4.uasset'
+[2019.12.11-03.07.14:591][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StoneMaterial] ([1] browsable assets)...
+[2019.12.11-03.07.14:591][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/StoneMaterial]
+[2019.12.11-03.07.14:608][301]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/StoneMaterial_Auto4079A5E3C453C993E210392B1C1862495.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Autosaves/Game/StoneMaterial_Auto4.uasset'
+[2019.12.11-03.07.14:623][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DoorMaterial] ([1] browsable assets)...
+[2019.12.11-03.07.14:623][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/DoorMaterial]
+[2019.12.11-03.07.14:642][301]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/DoorMaterial_Auto411C697A9457D00FD35C94D95CEE2F575.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Autosaves/Game/DoorMaterial_Auto4.uasset'
+[2019.12.11-03.07.14:655][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DoorFrameMaterial] ([1] browsable assets)...
+[2019.12.11-03.07.14:655][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/DoorFrameMaterial]
+[2019.12.11-03.07.14:683][301]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/DoorFrameMaterial_Auto4530A9C6B43AE2893B9C307929FF08B29.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Autosaves/Game/DoorFrameMaterial_Auto4.uasset'
+[2019.12.11-03.07.14:689][301]LogFileHelpers: Auto-saving content packages took 0.223
