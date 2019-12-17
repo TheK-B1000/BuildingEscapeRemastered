@@ -21,7 +21,7 @@ void UOpenDoor::BeginPlay()
 	Super::BeginPlay();
 
 
-	InitialYaw = 90.0f;
+	InitialYaw;
 	CurrentYaw = GetOwner()->GetActorRotation().Yaw;
 	TargetYaw = CurrentYaw + InitialYaw;
 
