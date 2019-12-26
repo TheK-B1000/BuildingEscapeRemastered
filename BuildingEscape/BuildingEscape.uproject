@@ -10,9 +10,7 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine",
-				"UMGEditor",
-				"AIModule"
+				"Engine"
 			]
 		}
 	]
