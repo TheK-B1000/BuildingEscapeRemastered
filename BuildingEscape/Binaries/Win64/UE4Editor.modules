@@ -1,11 +1,7 @@
 {
-	"BuildId": "8386587",
+	"BuildId": "10570792",
 	"Modules": 
 	{
-<<<<<<< HEAD
-		"BuildingEscape": "UE4Editor-BuildingEscape-0666.dll"
-=======
-		"BuildingEscape": "UE4Editor-BuildingEscape-5057.dll"
->>>>>>> parent of 956eca2... 12 - Setting up 1st person shooter using C++ and Blueprints
+		"BuildingEscape": "UE4Editor-BuildingEscape-7863.dll"
 	}
 }

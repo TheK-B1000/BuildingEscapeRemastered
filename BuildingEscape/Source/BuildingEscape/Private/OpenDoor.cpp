@@ -2,6 +2,7 @@
 
 #include "GameFramework/Actor.h"
 #include "OpenDoor.h"
+#include "Engine/TriggerVolume.h"
 #include "Math/Rotator.h"
 
 // Sets default values for this component's properties
