@@ -966,35 +966,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.05-14.24.58:153][751]LogTemp: Warning: Object Location is: X=-270.000 Y=-280.000 Z=150.000
 [2020.01.05-14.24.58:154][751]PIE: Play in editor start time for /Game/UEDPIE_0_Level_001 -0.292
 [2020.01.05-14.24.58:154][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
-[2020.01.05-14.25.01:141][751]LogWindows: Error: === Critical error: ===
-[2020.01.05-14.25.01:141][751]LogWindows: Error: 
-[2020.01.05-14.25.01:141][751]LogWindows: Error: Fatal error!
-[2020.01.05-14.25.01:141][751]LogWindows: Error: 
-[2020.01.05-14.25.01:141][751]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000238
-[2020.01.05-14.25.01:141][751]LogWindows: Error: 
-[2020.01.05-14.25.01:141][751]LogWindows: Error: [Callstack] 0x00007ffaf210f2b8 UE4Editor-Engine.dll!UnknownFunction []
-[2020.01.05-14.25.01:141][751]LogWindows: Error: [Callstack] 0x00007ffb132f21eb UE4Editor-BuildingEscape-7666.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaf2491dd8 UE4Editor-Engine.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaf24c2d84 UE4Editor-Engine.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaf3236123 UE4Editor-Engine.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaf3244116 UE4Editor-Engine.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffb06199ff2 UE4Editor-Core.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffb0619a2aa UE4Editor-Core.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaf326265d UE4Editor-Engine.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaf32684f2 UE4Editor-Engine.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaf29e9f3f UE4Editor-Engine.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaf29f55ee UE4Editor-Engine.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaff1eadb0 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffaffa4dd66 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ff674847f62 UE4Editor.exe!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ff67485c3ec UE4Editor.exe!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ff67485c4ca UE4Editor.exe!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ff67486ceae UE4Editor.exe!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ff67486fcbe UE4Editor.exe!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffb45d37bd4 KERNEL32.DLL!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: [Callstack] 0x00007ffb47c0ced1 ntdll.dll!UnknownFunction []
-[2020.01.05-14.25.01:142][751]LogWindows: Error: 
-[2020.01.05-14.25.01:159][751]LogExit: Executing StaticShutdownAfterError
-[2020.01.05-14.25.01:180][751]LogWindows: FPlatformMisc::RequestExit(1)
-[2020.01.05-14.25.01:180][751]LogCore: Engine exit requested (reason: Win RequestExit)
-[2020.01.05-14.25.01:193][751]Log file closed, 01/05/20 09:25:01
