@@ -42,14 +42,9 @@ void UGrabber::BeginPlay()
 
 	if (InputComponent)
 	{
-		UE_LOG(LogTemp, Error, TEXT("PhysicsHandle Component is attached to: %s"), *InputComponent->GetName());
 		InputComponent->BindAction("Grab", IE_Pressed, this, &UGrabber::Grab);
+		InputComponent->BindAction("Grab", IE_Released, this, &UGrabber::Release);
 	}
-	else
-	{
-		UE_LOG(LogTemp, Error, TEXT("PhysicsHandle Component is not attached to: %s"), *InputComponent->GetName());
-	}
-	
 }
 
 
@@ -97,13 +92,6 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 		TraceParams
 
 	);
-
-	// See what it hits
-	AActor* ActorHit = Hit.GetActor();
-	if (ActorHit)
-	{
-		//UE_LOG(LogTemp, Warning, TEXT("Line Trace Hit: %s"), *ActorHit->GetName());
-	}
 }
 
 void UGrabber::Grab()
