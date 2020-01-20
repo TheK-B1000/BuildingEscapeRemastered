@@ -13143,3 +13143,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.20-03.40.05:076][128]AssetCheck: New page: Asset Save: multiple assets
 [2020.01.20-03.40.05:076][128]LogContentValidation: Display: Validating World /Game/Level_001.Level_001
 [2020.01.20-03.40.05:076][128]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_001_BuiltData.Level_001_BuiltData
+[2020.01.20-03.43.24:823][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2020.01.20-03.48.35:193][680]LogUObjectHash: Compacting FUObjectHashTables data took  12.26ms
+[2020.01.20-03.48.35:750][680]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001AC6C377F4D602A0330F8858767F90D1A.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
+[2020.01.20-03.48.35:818][680]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltData0298DE2142BF8E2DCA2540A6E2D70B21.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2020.01.20-03.48.35:892][680]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.20-03.48.35:892][680]LogContentValidation: Display: Validating World /Game/Level_001.Level_001
+[2020.01.20-03.48.35:892][680]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_001_BuiltData.Level_001_BuiltData
+[2020.01.20-03.49.39:108][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.01.20-03.49.44:228][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.01.20-03.49.54:992][526]Cmd: SELECT NONE
+[2020.01.20-03.49.59:537][610]LogEditorViewport: Clicking Background
+[2020.01.20-03.50.01:489][622]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.01.20-03.50.01:888][622]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_00148EE11C64A88A7FBA3C3A0AF13669EC0.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
+[2020.01.20-03.50.01:960][622]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltData2C9D6AAE4CFC2A484759F89DB1835EC1.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2020.01.20-03.50.01:999][622]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.20-03.50.01:999][622]LogContentValidation: Display: Validating World /Game/Level_001.Level_001
+[2020.01.20-03.50.02:000][622]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_001_BuiltData.Level_001_BuiltData
