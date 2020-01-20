@@ -28,6 +28,7 @@ public:
 
 	FVector LineTraceEnd;
 
+
 private:
 
 	float Reach = 100.0f;
