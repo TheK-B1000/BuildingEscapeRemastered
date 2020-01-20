@@ -24,4 +24,12 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+	FVector LineTraceDirection;
+
+	FVector LineTraceEnd;
+
+private:
+
+	float Reach = 100.0f;
+
 };
