@@ -3,6 +3,7 @@
 
 #include "Grabber.h"
 #include "GameFramework/PlayerController.h"
+#include "Components/InputComponent.h"
 #include "Engine/World.h"
 #include "DrawDebugHelpers.h"
 #include "Math/Color.h"
@@ -27,7 +28,19 @@ void UGrabber::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
+	PhysicsHandle = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
+	PlayerInput = GetOwner()->FindComponentByClass<UInputComponent>();
+
+
+	if (PhysicsHandle)
+	{
+		// Physics Handle Found
+		PlayerInput = BindAction("Grab", this, IE_Pressed, &UGrabber::Grab);
+	}
+	else
+	{
+		UE_LOG(LogTemp, Error, TEXT("PhysicsHandle Component is not attached to: %s"),  *PhysicsHandle->GetName());
+	}
 	
 }
 
@@ -81,6 +94,6 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	AActor* ActorHit = Hit.GetActor();
 	if (ActorHit)
 	{
-		UE_LOG(LogTemp, Error, TEXT("Line Trace Hit: %s"), *ActorHit->GetName());
+		UE_LOG(LogTemp, Warning, TEXT("Line Trace Hit: %s"), *ActorHit->GetName());
 	}
 }

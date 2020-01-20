@@ -1,0 +1,1244 @@
+﻿Log file open, 01/19/20 23:35:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BuildingEscape
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.154990
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.20-04.35.08:834][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.20-04.35.08:834][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.20-04.35.08:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.01.20-04.35.08:834][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.20-04.35.08:834][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.20-04.35.08:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.01.20-04.35.08:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.01.20-04.35.08:834][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.20-04.35.08:834][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.20-04.35.08:834][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.20-04.35.08:835][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.01.20-04.35.08:835][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.01.20-04.35.08:840][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.20-04.35.08:840][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.20-04.35.08:841][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.20-04.35.08:842][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.20-04.35.08:843][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.20-04.35.08:843][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.20-04.35.08:843][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:843][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.20-04.35.08:843][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.20-04.35.08:843][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:844][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.20-04.35.08:844][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.20-04.35.08:844][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.20-04.35.08:844][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.20-04.35.08:844][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.20-04.35.08:849][  0]LogHAL: Display: Platform has ~ 8 GB [8462237696 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.20-04.35.08:849][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.20-04.35.08:849][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:849][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.20-04.35.08:849][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.20-04.35.08:849][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:849][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.20-04.35.08:849][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.20-04.35.08:850][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.20-04.35.08:851][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.20-04.35.08:852][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.20-04.35.08:852][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.20-04.35.08:852][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.01.20-04.35.08:852][  0]LogInit: Computer: LAPTOP-7TARG8CR
+[2020.01.20-04.35.08:852][  0]LogInit: User: TheKB1000
+[2020.01.20-04.35.08:852][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.20-04.35.08:852][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.20-04.35.08:852][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.20-04.35.08:852][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.20-04.35.08:852][  0]LogMemory: Process Physical Memory: 105.11 MB used, 105.11 MB peak
+[2020.01.20-04.35.08:852][  0]LogMemory: Process Virtual Memory: 100.00 MB used, 100.00 MB peak
+[2020.01.20-04.35.08:852][  0]LogMemory: Physical Memory: 5858.79 MB used,  2211.43 MB free, 8070.22 MB total
+[2020.01.20-04.35.08:852][  0]LogMemory: Virtual Memory: 5121.08 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.01.20-04.35.08:858][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.20-04.35.08:973][  0]LogInit: Using OS detected language (en-US).
+[2020.01.20-04.35.08:973][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.20-04.35.08:974][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.20-04.35.09:648][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.20-04.35.09:705][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.20-04.35.09:705][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.20-04.35.10:281][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.20-04.35.10:281][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.01.20-04.35.10:281][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.01.20-04.35.10:281][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.20-04.35.11:145][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2020.01.20-04.35.11:145][  0]LogD3D11RHI:       4055/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.20-04.35.11:171][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.01.20-04.35.11:172][  0]LogD3D11RHI:       128/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.20-04.35.11:181][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.20-04.35.11:181][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.20-04.35.11:181][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.20-04.35.11:265][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.20-04.35.11:265][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2020.01.20-04.35.11:266][  0]LogWindows: EnumDisplayDevices:
+[2020.01.20-04.35.11:266][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.01.20-04.35.11:266][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.20-04.35.11:267][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.20-04.35.11:267][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.01.20-04.35.11:267][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2020.01.20-04.35.11:267][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.01.20-04.35.11:267][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.01.20-04.35.11:267][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.01.20-04.35.11:335][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.01.20-04.35.11:335][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.20-04.35.11:358][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.01.20-04.35.12:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.01.20-04.35.12:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.01.20-04.35.12:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.01.20-04.35.12:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.01.20-04.35.12:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.20-04.35.12:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.01.20-04.35.12:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.01.20-04.35.12:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.01.20-04.35.12:248][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.01.20-04.35.12:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.01.20-04.35.12:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.01.20-04.35.12:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.01.20-04.35.12:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.01.20-04.35.12:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.01.20-04.35.12:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.20-04.35.12:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.01.20-04.35.12:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.01.20-04.35.12:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.01.20-04.35.12:416][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.20-04.35.12:435][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.20-04.35.12:553][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Intermediate/Shaders/WorkingDirectory/8468/).
+[2020.01.20-04.35.12:554][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TheK-B1000/AppData/Local/Temp/UnrealShaderWorkingDir/2508944E4BD9D4EBBB079397EDEDB339/'.
+[2020.01.20-04.35.12:554][  0]LogXGEController: Cleaning working directory: C:/Users/TheK-B1000/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.20-04.35.12:555][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.20-04.35.12:555][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.20-04.35.12:555][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.20-04.35.13:966][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.20-04.35.14:419][  0]LogDerivedDataCache: Loaded boot cache 0.45s 78MB C:/Users/TheK-B1000/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.20-04.35.14:420][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TheK-B1000/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.01.20-04.35.14:420][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.20-04.35.14:420][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.20-04.35.14:420][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.20-04.35.14:420][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.20-04.35.14:437][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.20-04.35.14:437][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.20-04.35.14:437][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.20-04.35.14:439][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TheK-B1000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.20-04.35.14:439][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.20-04.35.14:439][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.20-04.35.14:484][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.20-04.35.14:488][  0]LogSlate: Using FreeType 2.10.0
+[2020.01.20-04.35.14:488][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.20-04.35.14:590][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.01.20-04.35.15:055][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.20-04.35.15:329][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.20-04.35.15:329][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.20-04.35.15:329][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.20-04.35.15:329][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.20-04.35.15:329][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.20-04.35.15:347][  0]LogNetVersion: BuildingEscape 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2745654942)
+[2020.01.20-04.35.17:922][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.065969 seconds
+[2020.01.20-04.35.17:934][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.01.20-04.35.17:934][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.01.20-04.35.17:934][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.20-04.35.18:936][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.20-04.35.18:949][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.20-04.35.19:114][  0]SourceControl: Source control is disabled
+[2020.01.20-04.35.19:114][  0]SourceControl: Source control is disabled
+[2020.01.20-04.35.19:120][  0]SourceControl: Source control is disabled
+[2020.01.20-04.35.19:127][  0]SourceControl: Source control is disabled
+[2020.01.20-04.35.19:131][  0]SourceControl: Source control is disabled
+[2020.01.20-04.35.19:472][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.20-04.35.19:521][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.20-04.35.19:521][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.20-04.35.19:746][  0]LogOcInput: OculusInput pre-init called
+[2020.01.20-04.35.19:779][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.20-04.35.19:779][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.20-04.35.19:953][  0]LogEngine: Initializing Engine...
+[2020.01.20-04.35.19:955][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.20-04.35.19:959][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.20-04.35.20:639][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.20-04.35.20:668][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.20-04.35.20:720][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.20-04.35.20:720][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.20-04.35.20:720][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.20-04.35.20:720][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.20-04.35.20:720][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.20-04.35.20:721][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.20-04.35.20:721][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.20-04.35.20:721][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.20-04.35.20:721][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.20-04.35.20:721][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.20-04.35.20:782][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.20-04.35.20:782][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.20-04.35.20:782][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.20-04.35.20:782][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.20-04.35.20:782][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.20-04.35.20:782][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.20-04.35.20:782][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.20-04.35.20:782][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.20-04.35.20:782][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.20-04.35.21:630][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.20-04.35.21:650][  0]LogInit: FAudioDevice initialized.
+[2020.01.20-04.35.21:651][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.20-04.35.21:915][  0]LogDerivedDataCache: Saved boot cache 0.26s 78MB C:/Users/TheK-B1000/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.20-04.35.21:916][  0]LogInit: Texture streaming: Enabled
+[2020.01.20-04.35.21:960][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.20-04.35.21:960][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={3FC36D88-46CD-11C9-D69D-3D9AAF360972}
+[2020.01.20-04.35.21:960][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.20-04.35.21:968][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.20-04.35.22:058][  0]LogInit: Transaction tracking system initialized
+[2020.01.20-04.35.22:111][  0]BlueprintLog: New page: Editor Load
+[2020.01.20-04.35.22:262][  0]LocalizationService: Localization service is disabled
+[2020.01.20-04.35.22:416][  0]LogLinker: Warning: Failed to load '/Game/CloseCombat/CloseCombat_Greeting_Tutorial': Can't find file.
+[2020.01.20-04.35.22:416][  0]LogLinker: Warning: Failed to load '/Game/CloseCombat/CloseCombat_Greeting_Tutorial': Can't find file.
+[2020.01.20-04.35.22:416][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CloseCombat/CloseCombat_Greeting_Tutorial.CloseCombat_Greeting_Tutorial_C'
+[2020.01.20-04.35.22:837][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/' took 0.00s
+[2020.01.20-04.35.22:837][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.20-04.35.22:837][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.20-04.35.24:214][  0]SourceControl: Source control is disabled
+[2020.01.20-04.35.24:214][  0]Cmd: MAP LOAD FILE="../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.20-04.35.24:215][  0]LightingResults: New page: Lighting Build
+[2020.01.20-04.35.24:217][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-04.35.24:217][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-04.35.24:217][  0]MapCheck: New page: Map Check
+[2020.01.20-04.35.24:217][  0]LightingResults: New page: Lighting Build
+[2020.01.20-04.35.24:375][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.01.20-04.35.24:630][  0]LogAIModule: Creating AISystem for world Level_001
+[2020.01.20-04.35.24:634][  0]LogMaterial: Display: Material /Game/Broken_Concrete.Broken_Concrete needed to have new flag set bUsedWithStaticLighting !
+[2020.01.20-04.35.24:656][  0]LogMaterial: Display: Missing cached shader map for material Broken_Concrete, compiling. 
+[2020.01.20-04.35.24:764][  0]MapCheck: Warning: Broken_Concrete Material /Game/Broken_Concrete.Broken_Concrete was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.01.20-04.35.24:767][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.20-04.35.24:895][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.01.20-04.35.24:895][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.01.20-04.35.24:895][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.01.20-04.35.24:898][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.01.20-04.35.24:898][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.20-04.35.24:898][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.153ms to complete.
+[2020.01.20-04.35.24:936][  0]LogFileHelpers: Loading map 'Level_001' took 0.721
+[2020.01.20-04.35.25:103][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-04.35.25:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-04.35.25:131][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-04.35.25:146][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-04.35.25:165][  0]LogCollectionManager: Loaded 0 collections in 0.002636 seconds
+[2020.01.20-04.35.25:194][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Collections/' took 0.00s
+[2020.01.20-04.35.25:194][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Developers/TheKB1000/Collections/' took 0.00s
+[2020.01.20-04.35.25:194][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Collections/' took 0.00s
+[2020.01.20-04.35.25:194][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 3019 classes and 720 folders.
+[2020.01.20-04.35.25:208][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.01.20-04.35.25:414][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.20-04.35.25:428][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.01.20-04.35.25:569][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.20-04.35.25:572][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.20-04.35.25:587][  0]LogSlate: Took 0.004379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.20-04.35.25:590][  0]LogSlate: Took 0.002116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.01.20-04.35.25:780][  0]LogRenderer: Reallocating scene render targets to support 840x412 Format 10 NumSamples 1 (Frame:1).
+[2020.01.20-04.35.26:012][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.20-04.35.26:012][  0]LogLoad: (Engine Initialization) Total time: 19.67 seconds
+[2020.01.20-04.35.26:012][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.20-04.35.26:087][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.20-04.35.26:383][  2]LogAssetRegistry: Asset discovery search completed in 11.7937 seconds
+[2020.01.20-04.35.26:391][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000025 seconds (updated 0 objects)
+[2020.01.20-04.35.32:672][311]LogSlate: Took 0.001008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.20-04.35.37:394][312]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.20-04.36.10:916][585]Candidate modules for hot reload:
+[2020.01.20-04.36.10:916][585]  BuildingEscape
+[2020.01.20-04.36.10:916][585]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,4359 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-04.36.10:941][585]Warning: Starting HotReload took  0.1s.
+[2020.01.20-04.37.04:263][318]CompilerResultsLog: New page: Compilation - Jan 19, 2020, 6:37:04 PM
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-04.37.04:264][318]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 22.3317473 seconds
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: [Upgrade]
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: [Upgrade]
+[2020.01.20-04.37.04:264][318]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.01.20-04.37.04:264][318]CompilerResultsLog:   [1/4] Grabber.cpp
+[2020.01.20-04.37.04:265][318]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(51): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-04.37.04:265][318]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(27): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-04.37.04:265][318]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(52): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-04.37.04:265][318]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(29): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-04.37.04:265][318]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-4359.lib
+[2020.01.20-04.37.04:265][318]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4359.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4359.exp
+[2020.01.20-04.37.04:265][318]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-4359.dll
+[2020.01.20-04.37.04:265][318]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4359.suppressed.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4359.suppressed.exp
+[2020.01.20-04.37.04:265][318]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.01.20-04.37.04:265][318]CompilerResultsLog: Total time in Parallel executor: 26.18 seconds
+[2020.01.20-04.37.04:265][318]CompilerResultsLog: Total execution time: 52.98 seconds
+[2020.01.20-04.37.04:265][318]LogMainFrame: MainFrame: Module compiling took 53.364 seconds
+[2020.01.20-04.37.04:307][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.20-04.37.05:135][318]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0007 seconds. Added 4 classes and 3 folders.
+[2020.01.20-04.37.05:144][318]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.20-04.37.05:250][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.01.20-04.37.05:273][318]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 3021 classes and 723 folders.
+[2020.01.20-04.37.05:273][318]Display: HotReload took 54.4s.
+[2020.01.20-04.37.11:753][657]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-04.37.11:774][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-04.37.11:774][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-04.37.11:774][657]PIE: New page: PIE session: Level_001 (Jan 19, 2020, 6:37:11 PM)
+[2020.01.20-04.37.11:776][657]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.20-04.37.11:777][657]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.01.20-04.37.11:778][657]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_001
+[2020.01.20-04.37.11:789][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010393s)
+[2020.01.20-04.37.11:792][657]LogAIModule: Creating AISystem for world Level_001
+[2020.01.20-04.37.11:793][657]LogPlayLevel: PIE: World Init took: (0.003667s)
+[2020.01.20-04.37.11:793][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_001.Level_001 to /Game/UEDPIE_0_Level_001.Level_001 (0.014696s)
+[2020.01.20-04.37.11:828][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.01.20-04.37.11:829][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.20-04.37.11:829][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.20-04.37.11:829][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.20-04.37.11:829][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.20-04.37.11:829][657]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.20-04.37.11:829][657]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.20-04.37.11:829][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.20-04.37.11:829][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.20-04.37.11:830][657]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.20-04.37.11:830][657]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.20-04.37.11:861][657]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.20-04.37.11:861][657]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.20-04.37.11:861][657]LogAudioMixer: Display: Is Default: Yes
+[2020.01.20-04.37.11:861][657]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.20-04.37.11:861][657]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.20-04.37.11:861][657]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.20-04.37.11:861][657]LogAudioMixer: Display: Channel Order:
+[2020.01.20-04.37.11:861][657]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.20-04.37.11:861][657]LogAudioMixer: Display: 1: FrontRight
+[2020.01.20-04.37.11:977][657]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.20-04.37.11:979][657]LogInit: FAudioDevice initialized.
+[2020.01.20-04.37.12:008][657]LogLoad: Game class is 'GameModeBase_BP_C'
+[2020.01.20-04.37.12:011][657]LogWorld: Bringing World /Game/UEDPIE_0_Level_001.Level_001 up for play (max tick rate 60) at 2020.01.19-23.37.12
+[2020.01.20-04.37.12:011][657]LogWorld: Bringing up level for play took: 0.001134
+[2020.01.20-04.37.12:011][657]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.01.20-04.37.12:059][657]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.01.20-04.37.12:061][657]LogTemp: Warning: Object Name is: Sphere_2
+[2020.01.20-04.37.12:061][657]PIE: Play in editor start time for /Game/UEDPIE_0_Level_001 0.629
+[2020.01.20-04.37.12:061][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-04.37.14:378][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-04.37.14:378][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-04.37.14:380][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-04.37.14:383][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-04.37.14:383][776]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_001
+[2020.01.20-04.37.14:385][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-04.37.14:387][776]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-04.37.14:388][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-04.37.14:406][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-04.37.14:407][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-04.37.14:412][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-04.37.14:447][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-04.37.14:456][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-04.37.14:473][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.01.20-04.37.14:692][783]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.01.20-04.38.02:601][106]Candidate modules for hot reload:
+[2020.01.20-04.38.02:601][106]  BuildingEscape
+[2020.01.20-04.38.02:601][106]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9271 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-04.38.02:613][106]Warning: Starting HotReload took  0.0s.
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: New page: Compilation - Jan 19, 2020, 6:39:00 PM
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-04.39.00:592][668]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 17.3647529 seconds
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: [Upgrade]
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: [Upgrade]
+[2020.01.20-04.39.00:592][668]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.01.20-04.39.00:592][668]CompilerResultsLog:   [1/4] Grabber.cpp
+[2020.01.20-04.39.00:592][668]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(51): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-04.39.00:592][668]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(27): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-04.39.00:593][668]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(52): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-04.39.00:593][668]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(29): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-04.39.00:593][668]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-9271.lib
+[2020.01.20-04.39.00:593][668]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9271.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9271.exp
+[2020.01.20-04.39.00:593][668]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-9271.dll
+[2020.01.20-04.39.00:593][668]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9271.suppressed.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9271.suppressed.exp
+[2020.01.20-04.39.00:593][668]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.01.20-04.39.00:593][668]CompilerResultsLog: Total time in Parallel executor: 37.71 seconds
+[2020.01.20-04.39.00:593][668]CompilerResultsLog: Total execution time: 57.73 seconds
+[2020.01.20-04.39.00:593][668]LogMainFrame: MainFrame: Module compiling took 58.002 seconds
+[2020.01.20-04.39.00:629][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.01.20-04.39.01:506][668]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 4 classes and 3 folders.
+[2020.01.20-04.39.01:510][668]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.20-04.39.01:608][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.01.20-04.39.01:637][668]LogContentBrowser: Native class hierarchy populated in 0.0164 seconds. Added 3021 classes and 723 folders.
+[2020.01.20-04.39.01:637][668]Display: HotReload took 59.1s.
+[2020.01.20-04.39.46:423][846]Candidate modules for hot reload:
+[2020.01.20-04.39.46:423][846]  BuildingEscape
+[2020.01.20-04.39.46:424][846]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,8695 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-04.39.46:498][846]Warning: Starting HotReload took  0.2s.
+[2020.01.20-04.41.01:132][259]CompilerResultsLog: New page: Compilation - Jan 19, 2020, 6:41:01 PM
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-04.41.01:133][259]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 24.770001 seconds
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: [Upgrade]
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-04.41.01:133][259]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-04.41.01:134][259]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-04.41.01:134][259]CompilerResultsLog: [Upgrade]
+[2020.01.20-04.41.01:134][259]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:   [1/4] Grabber.cpp
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(51): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(27): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(52): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(29): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-8695.lib
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8695.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8695.exp
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-8695.dll
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8695.suppressed.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8695.suppressed.exp
+[2020.01.20-04.41.01:134][259]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.01.20-04.41.01:134][259]CompilerResultsLog: Total time in Parallel executor: 38.85 seconds
+[2020.01.20-04.41.01:134][259]CompilerResultsLog: Total execution time: 72.89 seconds
+[2020.01.20-04.41.01:134][259]LogMainFrame: MainFrame: Module compiling took 74.737 seconds
+[2020.01.20-04.41.01:169][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.01.20-04.41.02:121][259]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0007 seconds. Added 4 classes and 3 folders.
+[2020.01.20-04.41.02:132][259]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.20-04.41.02:234][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.01.20-04.41.02:256][259]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 3021 classes and 723 folders.
+[2020.01.20-04.41.02:256][259]Display: HotReload took 76.0s.
+[2020.01.20-04.41.06:801][451]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-04.41.06:819][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-04.41.06:819][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-04.41.06:819][451]PIE: New page: PIE session: Level_001 (Jan 19, 2020, 6:41:06 PM)
+[2020.01.20-04.41.06:819][451]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_001
+[2020.01.20-04.41.06:844][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024197s)
+[2020.01.20-04.41.06:845][451]LogAIModule: Creating AISystem for world Level_001
+[2020.01.20-04.41.06:846][451]LogPlayLevel: PIE: World Init took: (0.001918s)
+[2020.01.20-04.41.06:846][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_001.Level_001 to /Game/UEDPIE_0_Level_001.Level_001 (0.026313s)
+[2020.01.20-04.41.06:880][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.01.20-04.41.06:881][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.20-04.41.06:881][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.20-04.41.06:881][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.20-04.41.06:881][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.20-04.41.06:881][451]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.20-04.41.06:881][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.20-04.41.06:881][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.20-04.41.06:881][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.20-04.41.06:881][451]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.20-04.41.06:881][451]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.20-04.41.06:909][451]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.20-04.41.06:909][451]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.20-04.41.06:909][451]LogAudioMixer: Display: Is Default: Yes
+[2020.01.20-04.41.06:909][451]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.20-04.41.06:909][451]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.20-04.41.06:909][451]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.20-04.41.06:909][451]LogAudioMixer: Display: Channel Order:
+[2020.01.20-04.41.06:909][451]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.20-04.41.06:909][451]LogAudioMixer: Display: 1: FrontRight
+[2020.01.20-04.41.07:029][451]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.20-04.41.07:033][451]LogInit: FAudioDevice initialized.
+[2020.01.20-04.41.07:044][451]LogLoad: Game class is 'GameModeBase_BP_C'
+[2020.01.20-04.41.07:046][451]LogWorld: Bringing World /Game/UEDPIE_0_Level_001.Level_001 up for play (max tick rate 60) at 2020.01.19-23.41.07
+[2020.01.20-04.41.07:047][451]LogWorld: Bringing up level for play took: 0.001472
+[2020.01.20-04.41.07:047][451]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.01.20-04.41.07:050][451]LogTemp: Warning: Object Name is: Sphere_2
+[2020.01.20-04.41.07:050][451]PIE: Play in editor start time for /Game/UEDPIE_0_Level_001 -0.382
+[2020.01.20-04.41.07:051][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-04.41.09:880][603]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.09:896][604]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.09:914][605]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.09:930][606]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.09:947][607]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.09:964][608]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.09:982][609]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:003][610]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:019][611]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:037][612]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:057][613]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:074][614]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:103][615]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:119][616]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:136][617]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:152][618]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:172][619]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-04.41.10:175][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-04.41.10:175][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-04.41.10:175][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-04.41.10:176][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-04.41.10:176][619]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_001
+[2020.01.20-04.41.10:176][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-04.41.10:176][619]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-04.41.10:177][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-04.41.10:192][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-04.41.10:193][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-04.41.10:200][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-04.41.10:233][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-04.41.10:237][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-04.41.10:243][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.01.20-04.41.10:390][626]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.20-04.41.21:628][262]Cmd: SELECT NONE
+[2020.01.20-04.41.41:293][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.01.20-04.41.41:550][165]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_0010D4F302B4ECB67A2D02E42B63E24AE61.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
+[2020.01.20-04.41.41:631][165]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltData4D69FE79478C224FF1D1BDBF3D5B21F9.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2020.01.20-04.41.41:668][165]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.20-04.41.41:668][165]LogContentValidation: Display: Validating World /Game/Level_001.Level_001
+[2020.01.20-04.41.41:668][165]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_001_BuiltData.Level_001_BuiltData
+[2020.01.20-04.42.58:627][132]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-14.15.32:564][133]LogD3D11RHI: GetQueryData is taking a very long time (34353.9 s)
+[2020.01.20-14.15.32:564][133]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-14.15.33:008][133]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-14.18.44:238][607]LogHttp: Warning: 0000026206C42840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F154B11-400D-CCCB-633F-8CAE35051F2F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=9fac42f04d0bf86c7c77a38461b5dbfe%7Cb17b9a24caaf4b22beb43e36ae37cc22%7C1aadf357-618d-45b7-89b5-366b54ee33e8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.20-14.18.44:240][607]LogHttp: Warning: 0000026206C42840: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.20-14.18.44:240][607]LogHttp: Warning: 0000026206C42840: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x262208fff70 [can pipeline])
+[2020.01.20-14.18.44:240][607]LogHttp: Warning: 0000026206C42840: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2020.01.20-14.18.44:240][607]LogHttp: Warning: 0000026206C42840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.82.163.3) port 443 (#3))
+[2020.01.20-14.18.44:240][607]LogHttp: Warning: 0000026206C42840: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.20-14.18.44:240][607]LogHttp: Warning: 0000026206C42840: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.20-14.18.44:240][607]LogHttp: Warning: 0000026206C42840: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.20-14.18.44:240][607]LogHttp: Warning: 0000026206C42840: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.20-14.18.44:240][607]LogHttp: Warning: 0000026206C42840: libcurl info message cache 7 (Closing connection 3)
+[2020.01.20-14.18.44:259][608]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F154B11-400D-CCCB-633F-8CAE35051F2F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=9fac42f04d0bf86c7c77a38461b5dbfe%7Cb17b9a24caaf4b22beb43e36ae37cc22%7C1aadf357-618d-45b7-89b5-366b54ee33e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.20-14.41.47:085][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-17.19.04:922][418]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.01.20-17.20.58:697][606]LogHttp: Warning: 00000262783B2C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F154B11-400D-CCCB-633F-8CAE35051F2F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=9fac42f04d0bf86c7c77a38461b5dbfe%7Cb17b9a24caaf4b22beb43e36ae37cc22%7C1aadf357-618d-45b7-89b5-366b54ee33e8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.20-17.20.58:698][606]LogHttp: Warning: 00000262783B2C00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.20-17.20.58:698][606]LogHttp: Warning: 00000262783B2C00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x262208fff70 [can pipeline])
+[2020.01.20-17.20.58:698][606]LogHttp: Warning: 00000262783B2C00: libcurl info message cache 1 (Re-using existing connection! (#47) with host datarouter.ol.epicgames.com)
+[2020.01.20-17.20.58:702][606]LogHttp: Warning: 00000262783B2C00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.89.43.5) port 443 (#47))
+[2020.01.20-17.20.58:702][606]LogHttp: Warning: 00000262783B2C00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.20-17.20.58:702][606]LogHttp: Warning: 00000262783B2C00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.20-17.20.58:702][606]LogHttp: Warning: 00000262783B2C00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.20-17.20.58:702][606]LogHttp: Warning: 00000262783B2C00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.20-17.20.58:702][606]LogHttp: Warning: 00000262783B2C00: libcurl info message cache 7 (Closing connection 47)
+[2020.01.20-17.20.58:703][606]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F154B11-400D-CCCB-633F-8CAE35051F2F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=9fac42f04d0bf86c7c77a38461b5dbfe%7Cb17b9a24caaf4b22beb43e36ae37cc22%7C1aadf357-618d-45b7-89b5-366b54ee33e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.20-17.27.35:864][ 31]LogUObjectHash: Compacting FUObjectHashTables data took  30.67ms
+[2020.01.20-17.27.36:399][ 31]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001793CBC7640DD1726A18626A1D5BC272C.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
+[2020.01.20-17.27.36:548][ 31]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltData63C963DB4CED0924353C0CADA0F2DEEE.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2020.01.20-17.27.36:581][ 31]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.20-17.27.36:583][ 31]LogContentValidation: Display: Validating World /Game/Level_001.Level_001
+[2020.01.20-17.27.36:583][ 31]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_001_BuiltData.Level_001_BuiltData
+[2020.01.20-17.41.50:575][567]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2020.01.20-17.41.51:491][567]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0040 seconds. Added 121 classes and 0 folders.
+[2020.01.20-17.41.53:357][567]LogSlate: Took 0.002090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.20-17.41.54:061][585]LogSlate: Took 0.001700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.20-17.42.00:569][767]LogEditCondition: Error: EditCondition parsing failed: Field name "bSoftConstraint" was not found in class "PhysicsHandleComponent".
+[2020.01.20-17.42.01:834][804]BlueprintLog: New page: Compile DefaultPawn_BP
+[2020.01.20-17.42.02:140][804]LogUObjectHash: Compacting FUObjectHashTables data took  10.78ms
+[2020.01.20-17.42.02:706][816]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/DefaultPawn_BPA7A7981C4F0F92DC3E3626BC20F6E4B8.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Blueprints/DefaultPawn_BP.uasset'
+[2020.01.20-17.42.02:734][816]AssetCheck: New page: Asset Save: DefaultPawn_BP
+[2020.01.20-17.42.02:735][816]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2020.01.20-18.02.30:772][ 33]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2020.01.20-18.37.00:926][891]Candidate modules for hot reload:
+[2020.01.20-18.37.00:926][891]  BuildingEscape
+[2020.01.20-18.37.00:930][891]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,790 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-18.37.00:954][891]Warning: Starting HotReload took  0.1s.
+[2020.01.20-18.39.29:362][187]CompilerResultsLog: New page: Compilation - Jan 20, 2020, 8:39:29 AM
+[2020.01.20-18.39.29:395][187]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-18.39.29:395][187]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-18.39.29:395][187]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-18.39.29:395][187]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-18.39.29:395][187]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-18.39.29:395][187]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-18.39.29:395][187]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-18.39.29:395][187]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 15.8127196 seconds
+[2020.01.20-18.39.29:395][187]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-18.39.29:396][187]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-18.39.29:396][187]CompilerResultsLog: [Upgrade]
+[2020.01.20-18.39.29:396][187]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-18.39.29:396][187]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-18.39.29:396][187]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-18.39.29:396][187]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-18.39.29:396][187]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-18.39.29:396][187]CompilerResultsLog: [Upgrade]
+[2020.01.20-18.39.29:396][187]CompilerResultsLog: Building 5 actions with 4 processes...
+[2020.01.20-18.39.29:396][187]CompilerResultsLog:   [1/5] Grabber.cpp
+[2020.01.20-18.39.29:396][187]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(51): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-18.39.29:396][187]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(28): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-18.39.29:396][187]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(52): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-18.39.29:396][187]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(30): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-18.39.29:396][187]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2020.01.20-18.39.29:396][187]CompilerResultsLog:   [3/5] UE4Editor-BuildingEscape-0790.lib
+[2020.01.20-18.39.29:396][187]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0790.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0790.exp
+[2020.01.20-18.39.29:397][187]CompilerResultsLog:   [4/5] UE4Editor-BuildingEscape-0790.dll
+[2020.01.20-18.39.29:397][187]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0790.suppressed.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0790.suppressed.exp
+[2020.01.20-18.39.29:397][187]CompilerResultsLog:   [5/5] BuildingEscapeEditor.target
+[2020.01.20-18.39.29:397][187]CompilerResultsLog: Total time in Parallel executor: 126.75 seconds
+[2020.01.20-18.39.29:397][187]CompilerResultsLog: Total execution time: 147.61 seconds
+[2020.01.20-18.39.29:398][187]LogMainFrame: MainFrame: Module compiling took 148.490 seconds
+[2020.01.20-18.39.30:479][187]LogUObjectHash: Compacting FUObjectHashTables data took  61.41ms
+[2020.01.20-18.39.31:059][187]LogContentBrowser: Native class hierarchy populated in 0.2150 seconds. Added 3021 classes and 723 folders.
+[2020.01.20-18.39.31:061][187]Display: HotReload took 150.2s.
+[2020.01.20-18.40.24:744][ 31]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/BuildingEscape.Grabber
+[2020.01.20-18.49.26:590][207]Candidate modules for hot reload:
+[2020.01.20-18.49.26:590][207]  BuildingEscape
+[2020.01.20-18.49.26:590][207]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,7363 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-18.49.26:618][207]Warning: Starting HotReload took  0.1s.
+[2020.01.20-18.52.00:827][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.01.20-18.52.01:210][995]CompilerResultsLog: New page: Compilation - Jan 20, 2020, 8:52:01 AM
+[2020.01.20-18.52.01:211][995]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-18.52.01:211][995]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-18.52.01:211][995]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-18.52.01:211][995]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-18.52.01:211][995]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-18.52.01:211][995]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-18.52.01:211][995]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-18.52.01:211][995]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 25.8186734 seconds
+[2020.01.20-18.52.01:212][995]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-18.52.01:212][995]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-18.52.01:212][995]CompilerResultsLog: [Upgrade]
+[2020.01.20-18.52.01:212][995]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-18.52.01:212][995]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-18.52.01:212][995]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-18.52.01:212][995]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-18.52.01:213][995]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-18.52.01:213][995]CompilerResultsLog: [Upgrade]
+[2020.01.20-18.52.01:213][995]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.01.20-18.52.01:213][995]CompilerResultsLog:   [1/4] Grabber.cpp
+[2020.01.20-18.52.01:213][995]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(60): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-18.52.01:214][995]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(28): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-18.52.01:214][995]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(61): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-18.52.01:214][995]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(30): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-18.52.01:214][995]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-7363.lib
+[2020.01.20-18.52.01:214][995]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7363.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7363.exp
+[2020.01.20-18.52.01:214][995]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-7363.dll
+[2020.01.20-18.52.01:214][995]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7363.suppressed.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7363.suppressed.exp
+[2020.01.20-18.52.01:214][995]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.01.20-18.52.01:214][995]CompilerResultsLog: Total time in Parallel executor: 122.60 seconds
+[2020.01.20-18.52.01:214][995]CompilerResultsLog: Total execution time: 153.95 seconds
+[2020.01.20-18.52.01:215][995]LogMainFrame: MainFrame: Module compiling took 154.638 seconds
+[2020.01.20-18.52.01:630][995]LogUObjectHash: Compacting FUObjectHashTables data took  12.15ms
+[2020.01.20-18.52.03:241][995]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 4 classes and 3 folders.
+[2020.01.20-18.52.03:257][995]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.20-18.52.03:641][995]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2020.01.20-18.52.03:690][995]LogContentBrowser: Native class hierarchy populated in 0.0206 seconds. Added 3021 classes and 723 folders.
+[2020.01.20-18.52.03:690][995]Display: HotReload took 157.2s.
+[2020.01.20-18.52.05:980][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.01.20-18.52.10:887][164]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2020.01.20-18.52.11:419][164]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001D675FE58482F76ACE48CC98B5E7437D7.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001.umap'
+[2020.01.20-18.52.11:530][164]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/Level_001_BuiltData8ACB5E20422C6EBA8376379990B9DE5D.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Level_001_BuiltData.uasset'
+[2020.01.20-18.52.11:571][164]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.20-18.52.11:571][164]LogContentValidation: Display: Validating World /Game/Level_001.Level_001
+[2020.01.20-18.52.11:571][164]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_001_BuiltData.Level_001_BuiltData
+[2020.01.20-18.52.12:627][193]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-18.52.12:665][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-18.52.12:667][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-18.52.12:668][193]PIE: New page: PIE session: Level_001 (Jan 20, 2020, 8:52:12 AM)
+[2020.01.20-18.52.12:669][193]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_001
+[2020.01.20-18.52.12:708][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038367s)
+[2020.01.20-18.52.12:714][193]LogAIModule: Creating AISystem for world Level_001
+[2020.01.20-18.52.12:717][193]LogPlayLevel: PIE: World Init took: (0.008889s)
+[2020.01.20-18.52.12:717][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_001.Level_001 to /Game/UEDPIE_0_Level_001.Level_001 (0.048087s)
+[2020.01.20-18.52.12:863][193]LogUObjectHash: Compacting FUObjectHashTables data took  12.65ms
+[2020.01.20-18.52.12:866][193]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.20-18.52.12:866][193]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.20-18.52.12:866][193]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.20-18.52.12:866][193]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.20-18.52.12:866][193]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.20-18.52.12:866][193]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.20-18.52.12:866][193]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.20-18.52.12:866][193]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.20-18.52.12:867][193]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.20-18.52.12:867][193]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.20-18.52.12:931][193]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.20-18.52.12:931][193]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.20-18.52.12:931][193]LogAudioMixer: Display: Is Default: Yes
+[2020.01.20-18.52.12:931][193]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.20-18.52.12:931][193]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.20-18.52.12:931][193]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.20-18.52.12:931][193]LogAudioMixer: Display: Channel Order:
+[2020.01.20-18.52.12:931][193]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.20-18.52.12:931][193]LogAudioMixer: Display: 1: FrontRight
+[2020.01.20-18.52.13:337][193]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.20-18.52.13:340][193]LogInit: FAudioDevice initialized.
+[2020.01.20-18.52.13:401][193]LogLoad: Game class is 'GameModeBase_BP_C'
+[2020.01.20-18.52.13:408][193]LogWorld: Bringing World /Game/UEDPIE_0_Level_001.Level_001 up for play (max tick rate 60) at 2020.01.20-13.52.13
+[2020.01.20-18.52.13:410][193]LogWorld: Bringing up level for play took: 0.005231
+[2020.01.20-18.52.13:412][193]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.01.20-18.52.13:419][193]PIE: Play in editor start time for /Game/UEDPIE_0_Level_001 0.332
+[2020.01.20-18.52.13:420][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-18.52.14:136][214]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-18.52.14:146][214]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.01.20-18.52.14:155][214]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.01.20-18.52.14:156][214]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-18.52.14:158][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-18.52.14:158][214]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_001
+[2020.01.20-18.52.14:159][214]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-18.52.14:159][214]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-18.52.14:160][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-18.52.14:187][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-18.52.14:187][214]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-18.52.14:203][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-18.52.14:271][214]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-18.52.14:282][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-18.52.14:301][214]LogUObjectHash: Compacting FUObjectHashTables data took  16.19ms
+[2020.01.20-18.52.14:617][221]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.20-18.52.18:308][351]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-18.52.18:343][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-18.52.18:344][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-18.52.18:344][351]PIE: New page: PIE session: Level_001 (Jan 20, 2020, 8:52:18 AM)
+[2020.01.20-18.52.18:344][351]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_001
+[2020.01.20-18.52.18:360][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015782s)
+[2020.01.20-18.52.18:361][351]LogAIModule: Creating AISystem for world Level_001
+[2020.01.20-18.52.18:362][351]LogPlayLevel: PIE: World Init took: (0.001654s)
+[2020.01.20-18.52.18:362][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_001.Level_001 to /Game/UEDPIE_0_Level_001.Level_001 (0.017722s)
+[2020.01.20-18.52.18:445][351]LogUObjectHash: Compacting FUObjectHashTables data took   9.46ms
+[2020.01.20-18.52.18:450][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.20-18.52.18:450][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.20-18.52.18:450][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.20-18.52.18:450][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.20-18.52.18:450][351]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.20-18.52.18:450][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.20-18.52.18:450][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.20-18.52.18:450][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.20-18.52.18:452][351]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.20-18.52.18:452][351]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.20-18.52.18:485][351]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.20-18.52.18:485][351]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.20-18.52.18:485][351]LogAudioMixer: Display: Is Default: Yes
+[2020.01.20-18.52.18:485][351]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.20-18.52.18:485][351]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.20-18.52.18:485][351]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.20-18.52.18:485][351]LogAudioMixer: Display: Channel Order:
+[2020.01.20-18.52.18:485][351]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.20-18.52.18:485][351]LogAudioMixer: Display: 1: FrontRight
+[2020.01.20-18.52.18:632][351]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.20-18.52.18:635][351]LogInit: FAudioDevice initialized.
+[2020.01.20-18.52.18:653][351]LogLoad: Game class is 'GameModeBase_BP_C'
+[2020.01.20-18.52.18:659][351]LogWorld: Bringing World /Game/UEDPIE_0_Level_001.Level_001 up for play (max tick rate 60) at 2020.01.20-13.52.18
+[2020.01.20-18.52.18:659][351]LogWorld: Bringing up level for play took: 0.004841
+[2020.01.20-18.52.18:659][351]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.01.20-18.52.18:662][351]PIE: Play in editor start time for /Game/UEDPIE_0_Level_001 -0.424
+[2020.01.20-18.52.18:662][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-18.52.20:364][403]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:382][404]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:434][405]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:459][406]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:479][407]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:504][408]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:529][409]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:562][410]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:586][411]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:606][412]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:634][413]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:669][414]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:717][415]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:767][416]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:802][417]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.20:944][418]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:019][419]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:069][420]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:085][421]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:114][422]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:146][423]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:173][424]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:219][425]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:266][426]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:286][427]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:309][428]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:351][429]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:382][430]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:410][431]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:450][432]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:471][433]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:492][434]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:521][435]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:544][436]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:613][437]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:639][438]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:658][439]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:677][440]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:744][441]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:787][442]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:810][443]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:849][444]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:865][445]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:918][446]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.21:935][447]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.22:000][448]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.22:046][449]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.22:095][450]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.22:145][451]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.22:167][452]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.22:190][453]LogTemp: Error: Line Trace Hit: Cone_2
+[2020.01.20-18.52.25:146][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-18.52.25:155][554]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.01.20-18.52.25:163][554]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.01.20-18.52.25:164][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-18.52.25:164][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-18.52.25:164][554]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_001
+[2020.01.20-18.52.25:164][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-18.52.25:164][554]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-18.52.25:165][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-18.52.25:191][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-18.52.25:192][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-18.52.25:207][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-18.52.25:276][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-18.52.25:284][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-18.52.25:296][554]LogUObjectHash: Compacting FUObjectHashTables data took   9.52ms
+[2020.01.20-18.52.25:573][561]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.20-18.52.45:987][ 64]LogRenderer: Reallocating scene render targets to support 852x520 Format 10 NumSamples 1 (Frame:1).
+[2020.01.20-18.52.47:143][ 93]BlueprintLog: New page: Compile DefaultPawn_BP
+[2020.01.20-18.52.47:675][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.01.20-18.52.47:877][ 93]LogSavePackage: Moving '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Saved/DefaultPawn_BP4E758B7C4C2C5331BE1F13B672FC1F88.tmp' to '../../../../../../Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/Content/Blueprints/DefaultPawn_BP.uasset'
+[2020.01.20-18.52.47:919][ 93]AssetCheck: New page: Asset Save: DefaultPawn_BP
+[2020.01.20-18.52.47:919][ 93]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2020.01.20-18.52.50:348][150]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-18.52.50:371][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-18.52.50:371][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-18.52.50:371][150]PIE: New page: PIE session: Level_001 (Jan 20, 2020, 8:52:50 AM)
+[2020.01.20-18.52.50:371][150]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_001
+[2020.01.20-18.52.50:381][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010759s)
+[2020.01.20-18.52.50:387][150]LogAIModule: Creating AISystem for world Level_001
+[2020.01.20-18.52.50:392][150]LogPlayLevel: PIE: World Init took: (0.010860s)
+[2020.01.20-18.52.50:392][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_001.Level_001 to /Game/UEDPIE_0_Level_001.Level_001 (0.022010s)
+[2020.01.20-18.52.50:456][150]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2020.01.20-18.52.50:457][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.20-18.52.50:457][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.20-18.52.50:457][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.20-18.52.50:457][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.20-18.52.50:457][150]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.20-18.52.50:457][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.20-18.52.50:457][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.20-18.52.50:457][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.20-18.52.50:458][150]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.20-18.52.50:458][150]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.20-18.52.50:555][150]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.20-18.52.50:555][150]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.20-18.52.50:555][150]LogAudioMixer: Display: Is Default: Yes
+[2020.01.20-18.52.50:555][150]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.20-18.52.50:555][150]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.20-18.52.50:555][150]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.20-18.52.50:555][150]LogAudioMixer: Display: Channel Order:
+[2020.01.20-18.52.50:555][150]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.20-18.52.50:555][150]LogAudioMixer: Display: 1: FrontRight
+[2020.01.20-18.52.50:738][150]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.20-18.52.50:742][150]LogInit: FAudioDevice initialized.
+[2020.01.20-18.52.50:756][150]LogLoad: Game class is 'GameModeBase_BP_C'
+[2020.01.20-18.52.50:758][150]LogWorld: Bringing World /Game/UEDPIE_0_Level_001.Level_001 up for play (max tick rate 60) at 2020.01.20-13.52.50
+[2020.01.20-18.52.50:758][150]LogWorld: Bringing up level for play took: 0.001251
+[2020.01.20-18.52.50:758][150]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.01.20-18.52.56:023][150]LogWindows: Error: === Critical error: ===
+[2020.01.20-18.52.56:023][150]LogWindows: Error: 
+[2020.01.20-18.52.56:023][150]LogWindows: Error: Fatal error!
+[2020.01.20-18.52.56:023][150]LogWindows: Error: 
+[2020.01.20-18.52.56:023][150]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000018
+[2020.01.20-18.52.56:023][150]LogWindows: Error: 
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffc1ceb1f77 UE4Editor-BuildingEscape-7363.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba1b509d9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba1b5c80d UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba2e5c762 UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba226e091 UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba2e07eee UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba228eeb5 UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba8561d49 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba85820f6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba859cb75 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba806a645 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffba88cdd66 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ff77d5b7f62 UE4Editor.exe!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ff77d5cc3ec UE4Editor.exe!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ff77d5cc4ca UE4Editor.exe!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ff77d5dceae UE4Editor.exe!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ff77d5dfcbe UE4Editor.exe!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffc22097bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: [Callstack] 0x00007ffc2334ced1 ntdll.dll!UnknownFunction []
+[2020.01.20-18.52.56:023][150]LogWindows: Error: 
+[2020.01.20-18.52.56:067][150]LogExit: Executing StaticShutdownAfterError
+[2020.01.20-18.52.56:188][150]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.01.20-18.52.56:188][150]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.01.20-18.52.56:206][150]Log file closed, 01/20/20 13:52:56
