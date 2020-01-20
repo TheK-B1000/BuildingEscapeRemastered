@@ -37,5 +37,9 @@ private:
 
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
 
-	UInputComponent* PlayerInput;
+	UInputComponent* InputComponent = nullptr;
+
+	void Grab();
+
+	void Release();
 };

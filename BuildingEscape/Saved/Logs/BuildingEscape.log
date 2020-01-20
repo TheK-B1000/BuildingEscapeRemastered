@@ -729,3 +729,694 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.20-19.03.11:849][318]CompilerResultsLog:   [2/5] Grabber.gen.cpp
 [2020.01.20-19.03.11:850][318]LogMainFrame: MainFrame: Module compiling took 90.162 seconds
 [2020.01.20-19.03.11:854][318]Warning: HotReload failed, recompile failed
+[2020.01.20-19.13.37:992][767]Candidate modules for hot reload:
+[2020.01.20-19.13.37:992][767]  BuildingEscape
+[2020.01.20-19.13.37:992][767]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,7730 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-19.13.38:002][767]Warning: Starting HotReload took  0.0s.
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: New page: Compilation - Jan 20, 2020, 9:15:45 AM
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-19.15.45:343][134]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 21.8377178 seconds
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-19.15.45:343][134]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-19.15.45:344][134]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-19.15.45:344][134]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-19.15.45:344][134]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-19.15.45:344][134]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.15.45:344][134]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:   [1/4] Grabber.cpp
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(71): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(29): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(72): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(31): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-7730.lib
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7730.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7730.exp
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-7730.dll
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7730.suppressed.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7730.suppressed.exp
+[2020.01.20-19.15.45:344][134]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.01.20-19.15.45:344][134]CompilerResultsLog: Total time in Parallel executor: 100.65 seconds
+[2020.01.20-19.15.45:344][134]CompilerResultsLog: Total execution time: 127.09 seconds
+[2020.01.20-19.15.45:344][134]LogMainFrame: MainFrame: Module compiling took 127.364 seconds
+[2020.01.20-19.15.45:922][134]LogUObjectHash: Compacting FUObjectHashTables data took  15.78ms
+[2020.01.20-19.15.46:949][134]LogClass: Could not find existing class Grabber in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.20-19.15.46:986][134]LogHotReload: Re-instancing Grabber after hot-reload.
+[2020.01.20-19.15.47:960][134]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0008 seconds. Added 4 classes and 3 folders.
+[2020.01.20-19.15.47:975][134]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.20-19.15.48:718][134]LogUObjectHash: Compacting FUObjectHashTables data took   9.47ms
+[2020.01.20-19.15.48:778][134]LogContentBrowser: Native class hierarchy populated in 0.0250 seconds. Added 3021 classes and 723 folders.
+[2020.01.20-19.15.48:780][134]Display: HotReload took 130.8s.
+[2020.01.20-19.16.41:755][761]Candidate modules for hot reload:
+[2020.01.20-19.16.41:755][761]  BuildingEscape
+[2020.01.20-19.16.41:755][761]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9789 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-19.16.41:783][761]Warning: Starting HotReload took  0.1s.
+[2020.01.20-19.17.49:818][884]CompilerResultsLog: New page: Compilation - Jan 20, 2020, 9:17:49 AM
+[2020.01.20-19.17.49:819][884]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-19.17.49:820][884]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 21.4026754 seconds
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-19.17.49:820][884]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-19.17.49:821][884]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-19.17.49:821][884]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-19.17.49:821][884]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.17.49:821][884]CompilerResultsLog: Building 5 actions with 4 processes...
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:   [1/5] Grabber.cpp
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(37) : error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(37) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(854): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(37) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void,FKey>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(842): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(37) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(830): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(71): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(29): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-19.17.49:821][884]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(72): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-19.17.49:822][884]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(31): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-19.17.49:832][884]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2020.01.20-19.17.49:832][884]LogMainFrame: MainFrame: Module compiling took 68.112 seconds
+[2020.01.20-19.17.49:832][884]Warning: HotReload failed, recompile failed
+[2020.01.20-19.18.51:994][428]Candidate modules for hot reload:
+[2020.01.20-19.18.51:994][428]  BuildingEscape
+[2020.01.20-19.18.51:999][428]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9940 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-19.18.52:009][428]Warning: Starting HotReload took  0.0s.
+[2020.01.20-19.19.18:434][915]CompilerResultsLog: New page: Compilation - Jan 20, 2020, 9:19:18 AM
+[2020.01.20-19.19.18:435][915]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-19.19.18:435][915]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.19.18:435][915]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-19.19.18:436][915]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 21.0500282 seconds
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-19.19.18:436][915]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.19.18:441][915]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.01.20-19.19.18:442][915]CompilerResultsLog:   [1/4] Grabber.cpp
+[2020.01.20-19.19.18:443][915]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(45) : error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+[2020.01.20-19.19.18:446][915]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(45) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.19.18:446][915]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(854): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.19.18:446][915]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(45) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void,FKey>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.19.18:447][915]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(842): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.19.18:447][915]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(45) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.19.18:447][915]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(830): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.19.18:448][915]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(71): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-19.19.18:448][915]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(29): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-19.19.18:448][915]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(72): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-19.19.18:448][915]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(31): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-19.19.18:448][915]LogMainFrame: MainFrame: Module compiling took 26.465 seconds
+[2020.01.20-19.19.18:448][915]Warning: HotReload failed, recompile failed
+[2020.01.20-19.20.35:489][734]Candidate modules for hot reload:
+[2020.01.20-19.20.35:489][734]  BuildingEscape
+[2020.01.20-19.20.35:489][734]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9256 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-19.20.35:509][734]Warning: Starting HotReload took  0.1s.
+[2020.01.20-19.20.57:079][159]CompilerResultsLog: New page: Compilation - Jan 20, 2020, 9:20:57 AM
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-19.20.57:080][159]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 14.5708045 seconds
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.20.57:080][159]CompilerResultsLog: Building 5 actions with 4 processes...
+[2020.01.20-19.20.57:080][159]CompilerResultsLog:   [1/5] Grabber.cpp
+[2020.01.20-19.20.57:080][159]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(46) : error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+[2020.01.20-19.20.57:080][159]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(46) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.20.57:080][159]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(854): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.20.57:080][159]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(46) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void,FKey>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.20.57:080][159]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(842): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.20.57:081][159]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(46) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.20.57:081][159]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(830): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.20.57:081][159]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(72): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-19.20.57:081][159]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(29): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-19.20.57:081][159]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(73): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-19.20.57:081][159]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(31): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-19.20.57:081][159]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2020.01.20-19.20.57:081][159]LogMainFrame: MainFrame: Module compiling took 21.608 seconds
+[2020.01.20-19.20.57:081][159]Warning: HotReload failed, recompile failed
+[2020.01.20-19.21.50:971][387]Candidate modules for hot reload:
+[2020.01.20-19.21.50:971][387]  BuildingEscape
+[2020.01.20-19.21.50:971][387]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5514 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-19.21.51:000][387]Warning: Starting HotReload took  0.1s.
+[2020.01.20-19.22.11:364][600]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.20-19.22.11:434][600]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.20-19.22.17:987][747]LogSlate: Took 0.002838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.20-19.22.23:600][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: New page: Compilation - Jan 20, 2020, 9:22:51 AM
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-19.22.51:384][309]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 16.0189181 seconds
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-19.22.51:384][309]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-19.22.51:385][309]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-19.22.51:385][309]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-19.22.51:385][309]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-19.22.51:385][309]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.22.51:385][309]CompilerResultsLog: Building 5 actions with 4 processes...
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:   [1/5] Grabber.cpp
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(45) : error C2065: 'PlayerInput': undeclared identifier
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(46) : error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(46) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(854): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(46) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void,FKey>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(842): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(46) : error C2784: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': could not deduce template argument for 'UserClass *' from 'EInputEvent'
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(830): note: see declaration of 'UInputComponent::BindAction'
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:    C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(50) : error C2065: 'PlayerInput': undeclared identifier
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(72): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-19.22.51:385][309]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(29): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-19.22.51:386][309]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(73): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-19.22.51:386][309]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(31): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-19.22.51:386][309]LogMainFrame: MainFrame: Module compiling took 60.467 seconds
+[2020.01.20-19.22.51:386][309]Warning: HotReload failed, recompile failed
+[2020.01.20-19.23.11:124][646]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2020.01.20-19.23.11:203][647]LogRenderer: Reallocating scene render targets to support 1052x512 Format 10 NumSamples 1 (Frame:57583).
+[2020.01.20-19.23.13:487][674]Candidate modules for hot reload:
+[2020.01.20-19.23.13:487][674]  BuildingEscape
+[2020.01.20-19.23.13:487][674]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,4356 Win64 Development -TargetType=Editor -Project="C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject" "C:/Users/TheK-B1000/Desktop/The K-B Folder/Unreal/repos/Section 3/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.20-19.23.13:521][674]Warning: Starting HotReload took  0.1s.
+[2020.01.20-19.23.51:310][494]CompilerResultsLog: New page: Compilation - Jan 20, 2020, 9:23:51 AM
+[2020.01.20-19.23.51:310][494]CompilerResultsLog: WARNING: Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+[2020.01.20-19.23.51:310][494]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.23.51:310][494]CompilerResultsLog: WARNING: Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.23.51:310][494]CompilerResultsLog: WARNING: Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Config\DefaultEngine.ini
+[2020.01.20-19.23.51:310][494]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3).
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\BuildingEscape.uproject" "C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 14.5316449 seconds
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: Using Visual Studio 2019 14.21.27619 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: [Upgrade]
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: Building 5 actions with 4 processes...
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   [1/5] Grabber.gen.cpp
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   [2/5] Grabber.cpp
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(72): warning C4458: declaration of 'LineTraceDirection' hides class member
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(29): note: see declaration of 'UGrabber::LineTraceDirection'
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Private\Grabber.cpp(73): warning C4458: declaration of 'LineTraceEnd' hides class member
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Source\BuildingEscape\Public\Grabber.h(31): note: see declaration of 'UGrabber::LineTraceEnd'
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   [3/5] UE4Editor-BuildingEscape-4356.lib
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4356.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4356.exp
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   [4/5] UE4Editor-BuildingEscape-4356.dll
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:      Creating library C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4356.suppressed.lib and object C:\Users\TheK-B1000\Desktop\The K-B Folder\Unreal\repos\Section 3\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4356.suppressed.exp
+[2020.01.20-19.23.51:311][494]CompilerResultsLog:   [5/5] BuildingEscapeEditor.target
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: Total time in Parallel executor: 19.12 seconds
+[2020.01.20-19.23.51:311][494]CompilerResultsLog: Total execution time: 37.03 seconds
+[2020.01.20-19.23.51:311][494]LogMainFrame: MainFrame: Module compiling took 37.844 seconds
+[2020.01.20-19.23.51:730][494]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2020.01.20-19.23.52:635][494]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 4 classes and 3 folders.
+[2020.01.20-19.23.52:641][494]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.20-19.23.53:275][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.01.20-19.23.53:307][494]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 3021 classes and 723 folders.
+[2020.01.20-19.23.53:308][494]Display: HotReload took 39.9s.
+[2020.01.20-19.24.41:530][902]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-19.24.41:573][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-19.24.41:573][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-19.24.41:573][902]PIE: New page: PIE session: Level_001 (Jan 20, 2020, 9:24:41 AM)
+[2020.01.20-19.24.41:573][902]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_001
+[2020.01.20-19.24.41:592][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018492s)
+[2020.01.20-19.24.41:594][902]LogAIModule: Creating AISystem for world Level_001
+[2020.01.20-19.24.41:594][902]LogPlayLevel: PIE: World Init took: (0.002125s)
+[2020.01.20-19.24.41:594][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_001.Level_001 to /Game/UEDPIE_0_Level_001.Level_001 (0.020964s)
+[2020.01.20-19.24.41:695][902]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.01.20-19.24.41:697][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.20-19.24.41:697][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.20-19.24.41:697][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.20-19.24.41:697][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.20-19.24.41:697][902]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.20-19.24.41:697][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.20-19.24.41:697][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.20-19.24.41:697][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.20-19.24.41:697][902]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.20-19.24.41:697][902]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.20-19.24.41:726][902]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.20-19.24.41:726][902]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.20-19.24.41:726][902]LogAudioMixer: Display: Is Default: Yes
+[2020.01.20-19.24.41:726][902]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.20-19.24.41:726][902]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.20-19.24.41:726][902]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.20-19.24.41:726][902]LogAudioMixer: Display: Channel Order:
+[2020.01.20-19.24.41:726][902]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.20-19.24.41:726][902]LogAudioMixer: Display: 1: FrontRight
+[2020.01.20-19.24.41:861][902]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.20-19.24.41:864][902]LogInit: FAudioDevice initialized.
+[2020.01.20-19.24.41:885][902]LogLoad: Game class is 'GameModeBase_BP_C'
+[2020.01.20-19.24.41:887][902]LogWorld: Bringing World /Game/UEDPIE_0_Level_001.Level_001 up for play (max tick rate 60) at 2020.01.20-14.24.41
+[2020.01.20-19.24.41:887][902]LogWorld: Bringing up level for play took: 0.001134
+[2020.01.20-19.24.41:888][902]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.01.20-19.24.41:893][902]LogTemp: Error: PhysicsHandle Component is attached to: PawnInputComponent0
+[2020.01.20-19.24.41:893][902]PIE: Play in editor start time for /Game/UEDPIE_0_Level_001 0.807
+[2020.01.20-19.24.41:894][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-19.24.45:571][ 11]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:609][ 12]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:638][ 13]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:672][ 14]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:712][ 15]LogTemp: Warning: Grab Pressed
+[2020.01.20-19.24.45:713][ 15]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:739][ 16]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:772][ 17]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:807][ 18]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:840][ 19]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:873][ 20]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:906][ 21]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:939][ 22]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.45:971][ 23]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:006][ 24]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:042][ 25]LogTemp: Warning: Grab Pressed
+[2020.01.20-19.24.46:042][ 25]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:077][ 26]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:107][ 27]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:138][ 28]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:171][ 29]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:206][ 30]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:240][ 31]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:273][ 32]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:305][ 33]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:338][ 34]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:372][ 35]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:413][ 36]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.46:414][ 36]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-19.24.46:414][ 36]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-19.24.46:418][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-19.24.46:419][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-19.24.46:420][ 36]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_001
+[2020.01.20-19.24.46:420][ 36]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-19.24.46:420][ 36]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-19.24.46:421][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-19.24.46:478][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-19.24.46:479][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-19.24.46:493][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-19.24.46:552][ 36]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-19.24.46:559][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-19.24.46:575][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.01.20-19.24.46:871][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.20-19.24.55:271][246]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-19.24.55:295][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-19.24.55:296][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-19.24.55:296][246]PIE: New page: PIE session: Level_001 (Jan 20, 2020, 9:24:55 AM)
+[2020.01.20-19.24.55:296][246]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_001
+[2020.01.20-19.24.55:309][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012914s)
+[2020.01.20-19.24.55:311][246]LogAIModule: Creating AISystem for world Level_001
+[2020.01.20-19.24.55:316][246]LogPlayLevel: PIE: World Init took: (0.007050s)
+[2020.01.20-19.24.55:316][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_001.Level_001 to /Game/UEDPIE_0_Level_001.Level_001 (0.020342s)
+[2020.01.20-19.24.55:375][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.01.20-19.24.55:377][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.20-19.24.55:377][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.20-19.24.55:377][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.20-19.24.55:377][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.20-19.24.55:377][246]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.20-19.24.55:377][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.20-19.24.55:377][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.20-19.24.55:377][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.20-19.24.55:380][246]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.20-19.24.55:380][246]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.20-19.24.55:402][246]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.20-19.24.55:403][246]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.20-19.24.55:403][246]LogAudioMixer: Display: Is Default: Yes
+[2020.01.20-19.24.55:403][246]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.20-19.24.55:403][246]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.20-19.24.55:403][246]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.20-19.24.55:403][246]LogAudioMixer: Display: Channel Order:
+[2020.01.20-19.24.55:403][246]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.20-19.24.55:403][246]LogAudioMixer: Display: 1: FrontRight
+[2020.01.20-19.24.55:523][246]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.20-19.24.55:525][246]LogInit: FAudioDevice initialized.
+[2020.01.20-19.24.55:539][246]LogLoad: Game class is 'GameModeBase_BP_C'
+[2020.01.20-19.24.55:541][246]LogWorld: Bringing World /Game/UEDPIE_0_Level_001.Level_001 up for play (max tick rate 60) at 2020.01.20-14.24.55
+[2020.01.20-19.24.55:542][246]LogWorld: Bringing up level for play took: 0.001158
+[2020.01.20-19.24.55:542][246]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.01.20-19.24.55:548][246]LogTemp: Error: PhysicsHandle Component is attached to: PawnInputComponent0
+[2020.01.20-19.24.55:548][246]PIE: Play in editor start time for /Game/UEDPIE_0_Level_001 0.461
+[2020.01.20-19.24.55:548][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-19.24.57:754][309]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.57:787][310]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.57:819][311]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.57:852][312]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.57:886][313]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.57:919][314]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.57:953][315]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.57:986][316]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:019][317]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:053][318]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:086][319]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:119][320]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:154][321]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:188][322]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:219][323]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:252][324]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:286][325]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:320][326]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:352][327]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:386][328]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:419][329]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:453][330]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:487][331]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:520][332]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:554][333]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:586][334]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:619][335]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:652][336]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:686][337]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:719][338]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:758][339]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:786][340]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:818][341]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:852][342]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:886][343]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:932][344]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:952][345]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.58:986][346]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:019][347]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:052][348]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:086][349]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:119][350]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:152][351]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:187][352]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:219][353]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:252][354]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:286][355]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:319][356]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:353][357]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:387][358]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:420][359]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:453][360]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:486][361]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:520][362]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:554][363]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:587][364]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:619][365]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:652][366]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:686][367]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:723][368]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:756][369]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:786][370]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:819][371]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:853][372]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:886][373]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:919][374]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:952][375]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.24.59:986][376]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:019][377]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:053][378]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:085][379]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:119][380]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:153][381]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:186][382]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:218][383]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:252][384]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:285][385]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:319][386]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:352][387]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:386][388]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:420][389]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:452][390]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:487][391]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:519][392]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:552][393]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:587][394]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:620][395]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:652][396]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:686][397]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:719][398]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:752][399]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:787][400]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:820][401]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:854][402]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:887][403]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:920][404]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:953][405]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.00:986][406]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:020][407]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:054][408]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:086][409]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:120][410]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:153][411]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:187][412]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:220][413]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:252][414]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:287][415]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:319][416]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:353][417]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:389][418]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:420][419]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:453][420]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:486][421]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:519][422]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:553][423]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:586][424]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:620][425]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:653][426]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:687][427]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:719][428]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:752][429]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:785][430]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:819][431]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:853][432]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:886][433]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:920][434]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:953][435]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.01:986][436]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:019][437]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:053][438]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:086][439]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:120][440]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:153][441]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:185][442]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:220][443]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:253][444]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:286][445]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:319][446]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:353][447]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:387][448]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:420][449]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:453][450]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:486][451]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:520][452]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.02:552][453]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:277][478]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:301][479]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:319][480]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:344][481]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:361][482]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:388][483]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:410][484]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:447][485]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:456][486]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:481][487]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:505][488]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:528][489]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:543][490]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:576][491]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:610][492]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:643][493]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:675][494]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:711][495]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:742][496]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:775][497]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:809][498]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:843][499]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:876][500]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:909][501]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:942][502]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.03:978][503]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:009][504]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:042][505]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:075][506]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:108][507]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:141][508]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:174][509]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:208][510]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:242][511]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:274][512]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:308][513]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:342][514]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:375][515]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:422][516]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:442][517]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:477][518]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:511][519]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:543][520]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:585][521]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:610][522]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:641][523]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:677][524]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:710][525]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:743][526]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:776][527]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:808][528]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:843][529]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:881][530]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:911][531]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:944][532]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.04:977][533]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:011][534]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:041][535]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:077][536]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:108][537]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:144][538]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:178][539]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:213][540]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:242][541]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:277][542]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:310][543]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:342][544]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:376][545]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:409][546]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:442][547]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:476][548]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:509][549]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:541][550]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:576][551]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:608][552]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:642][553]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:680][554]LogTemp: Warning: Grab Pressed
+[2020.01.20-19.25.05:681][554]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:710][555]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:741][556]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:776][557]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:809][558]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:841][559]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:878][560]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:909][561]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:941][562]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.05:976][563]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:009][564]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:043][565]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:077][566]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:110][567]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:151][568]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:179][569]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:210][570]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:244][571]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:278][572]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:310][573]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:344][574]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:377][575]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:410][576]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:443][577]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:476][578]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:516][579]LogTemp: Warning: Grab Pressed
+[2020.01.20-19.25.06:516][579]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:543][580]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:577][581]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:609][582]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:643][583]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:677][584]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:709][585]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:742][586]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:776][587]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:810][588]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:842][589]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:875][590]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:909][591]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:942][592]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.06:977][593]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:009][594]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:042][595]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:080][596]LogTemp: Warning: Grab Pressed
+[2020.01.20-19.25.07:081][596]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:108][597]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:142][598]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:176][599]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:208][600]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:242][601]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:280][602]LogTemp: Warning: Grab Pressed
+[2020.01.20-19.25.07:280][602]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:309][603]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:342][604]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:376][605]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:409][606]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:442][607]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:475][608]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:508][609]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:542][610]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:574][611]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:609][612]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:642][613]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:675][614]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:708][615]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:742][616]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:775][617]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:808][618]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:842][619]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:880][620]LogTemp: Warning: Grab Pressed
+[2020.01.20-19.25.07:880][620]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:909][621]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:943][622]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.07:976][623]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:009][624]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:050][625]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:076][626]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:110][627]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:142][628]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:176][629]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:208][630]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:244][631]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:280][632]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:312][633]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:342][634]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:378][635]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:408][636]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:442][637]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:476][638]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:510][639]LogTemp: Warning: Line Trace Hit: Cone_2
+[2020.01.20-19.25.08:513][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-19.25.08:513][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-19.25.08:513][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-19.25.08:514][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-19.25.08:514][639]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_001
+[2020.01.20-19.25.08:514][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-19.25.08:514][639]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-19.25.08:514][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-19.25.08:582][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-19.25.08:582][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_001.Level_001:PersistentLevel' has LevelScriptBlueprint '/Game/Level_001.Level_001:PersistentLevel.Level_001' with GeneratedClass '/Game/Level_001.Level_001_C' with ClassGeneratedBy '/Game/Level_001.Level_001:PersistentLevel.Level_001'
+[2020.01.20-19.25.08:589][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.20-19.25.08:653][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.20-19.25.08:668][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-19.25.08:677][639]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.01.20-19.25.08:988][646]LogPlayLevel: Display: Destroying online subsystem :Context_8
